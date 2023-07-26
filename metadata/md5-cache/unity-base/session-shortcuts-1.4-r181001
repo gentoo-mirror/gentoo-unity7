@@ -1,0 +1,15 @@
+DEFINED_PHASES=configure install postinst prepare setup
+DEPEND=dev-util/intltool sys-devel/gettext
+DESCRIPTION=Allows shutdown, logout, and reboot from dash
+EAPI=8
+HOMEPAGE=https://wiki.ubuntu.com/Unity
+INHERIT=ubuntu-versionator
+KEYWORDS=amd64
+LICENSE=GPL-2+
+PDEPEND=unity-base/unity
+RDEPEND=gnome-base/gnome-session
+RESTRICT=test mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/session-shortcuts_1.4.tar.xz
+_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=aba9b43a1c5217a77bd78a20b5baf153

@@ -1,0 +1,90 @@
+app-accessibility/onboard 1.4.1-r230401: Simple on-screen Keyboard with macros and easy layout creation
+app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being used
+dev-java/jayatana 0.7.6: Global menu for Java applications
+dev-libs/dee 1.2.7-r230401: Provide objects allowing to create Model-View-Controller type programs across DBus
+dev-libs/libcolumbus 1.1.0-r230401: Error tolerant matching engine used by the Unity7 user interface
+dev-libs/libindicator 16.10.0-r2220401 16.10.0-r3220401: A set of symbols and convenience functions that all indicators would like to use
+dev-libs/libqtdbusmock 0.7-r210401: Qt Bindings for python-dbusmock
+dev-libs/libqtdbustest 0.2-r230401: Library to facilitate testing DBus interactions in Qt applications
+dev-libs/libunity 7.1.4-r220403: Library for instrumenting and integrating with all aspects of the Unity shell
+dev-libs/libunity-misc 4.0.5-r191002: Miscellaneous modules for the Unity7 user interface
+dev-libs/libzeitgeist 0.3.18-r160401: Client library to interact with zeitgeist
+dev-libs/properties-cpp 0.0.2-r221001: Simple convenience library for handling properties and signals in C++11
+dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath queries
+dev-util/cmake-extras 1.6-r220401: Extra CMake utility modules
+gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
+gnome-extra/nemo-engrampa 5.6.1-r230401: Nemo engrampa integration
+gnome-extra/zeitgeist 1.0.3-r210402: Service to log activities and present to other apps
+media-fonts/fonts-noto-cjk 20220127-r220401: No Tofu CJK font families with large Unicode coverage
+media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
+net-libs/geonames 0.3.0-r230401: Parse and query the geonames database dump
+net-mail/mailnag 2.2.0-r220402: An extensible mail notification daemon
+net-misc/vino 3.22.0-r220401: An integrated VNC server for GNOME
+sys-power/cpufrequtils 008-r220401: Userspace utilities for the Linux kernel cpufreq subsystem
+unity-base/bamf 0.5.6-r220402: BAMF Application Matching Framework
+unity-base/compiz 0.9.14.2-r230403: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
+unity-base/frame 2.5.0-r210401: Touch Frame Library
+unity-base/geis 2.2.17-r230401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
+unity-base/grail 3.1.1-r210401: An implementation of the GRAIL (Gesture Recognition And Instantiation Library) interface
+unity-base/gsettings-ubuntu-touch-schemas 0.0.7-r220401: GSettings desktop-wide schemas for the Unity7 user interface
+unity-base/hud 14.10-r210401: Backend for the Unity HUD
+unity-base/nux 4.0.8-r220403: Visual rendering toolkit for the Unity7 user interface
+unity-base/overlay-scrollbar 0.2.17.1-r170401: Ayatana Scrollbars use an overlay to ensure scrollbars take up no active screen real-estate
+unity-base/session-migration 0.3.6-r220401: Tool to migrate in user session settings used by the Unity desktop
+unity-base/session-shortcuts 1.4-r181001: Allows shutdown, logout, and reboot from dash
+unity-base/ubuntu-docs 16.04.4-r160404: Help files for the Unity7 user interface
+unity-base/unity 7.7.0-r230404: The Ubuntu Unity Desktop
+unity-base/unity-api 8.7-r210402: API for Unity shell integration
+unity-base/unity-build-env 0-r211001: Merge this to setup the Unity7 build environment package.{accept_keywords,env,mask,unmask,use} files
+unity-base/unity-control-center 15.04.0-r230401: Unity Desktop Configuration Tool
+unity-base/unity-gtk-module 0.0.0-r220401: GTK+ module for exporting old-style menus as GMenuModels
+unity-base/unity-language-pack 0-r230405 0-r231001: Language translations pack for Unity7 user interface
+unity-base/unity-meta 0-r230401: Unity Desktop - merge this to pull in all Unity packages
+unity-base/unity-settings 0-r230401: Default settings for the Unity
+unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
+unity-extra/diodon 1.13.0-r221002: GTK+ Clipboard manager
+unity-extra/ehooks 0-r230401: ehooks patching system
+unity-extra/indicator-cpufreq 0.2.2-r190401 0.2.2-r231001: CPU frequency scaling indicator for the Unity7 user interface
+unity-extra/indicator-multiload 0.4-r171001: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
+unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
+unity-extra/indicator-privacy 0.7: Indicator to change user privacy settings
+unity-extra/indicator-psensor 1.1.5-r210402: Indicator for monitoring hardware temperature used by the Unity7 user interface
+unity-extra/meteo-qt 3.3-r230401: System tray application for weather status information
+unity-extra/unity-greeter 22.04.1-r220403 23.10.1-r231001: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
+unity-extra/unity-tweak-tool 0.0.7-r230401: Configuration manager for the Unity7 user interface
+unity-indicators/ido 13.10.0-r221001: Widgets and other objects used for indicators by the Unity7 user interface
+unity-indicators/indicator-application 12.10.1-r200401: Application indicators used by the Unity7 user interface
+unity-indicators/indicator-appmenu 15.02.0-r201001: Indicator for application menus used by the Unity7 user interface
+unity-indicators/indicator-bluetooth 0.0.6-r171001: System bluetooth indicator used by the Unity7 user interface
+unity-indicators/indicator-datetime 15.10-r221001: Date and Time Indicator used by the Unity7 user interface
+unity-indicators/indicator-keyboard 0.0.0-r221001: Keyboard indicator used by the Unity7 user interface
+unity-indicators/indicator-messages 13.10.1-r230401 13.10.1-r231002: Indicator that collects messages that need a response used by the Unity7 user interface
+unity-indicators/indicator-notifications 0.4.2-r221001: View recent notifications
+unity-indicators/indicator-power 12.10.6-r210401: Indicator showing power state used by the Unity7 user interface
+unity-indicators/indicator-printers 0.1.7-r210401: Indicator showing active print jobs used by the Unity7 user interface
+unity-indicators/indicator-session 17.3.20-r211001: Indicator showing session management, status and user switching used by the Unity7 user interface
+unity-indicators/indicator-sound 12.10.2-r211001 12.10.2-r231001: System sound indicator used by the Unity7 user interface
+unity-indicators/unity-indicator-appearance 1.2-r221001: Default settings for Ubuntu Unity
+unity-indicators/unity-indicators-meta 0-r221001: Unity Desktop - merge this to pull in all Unity indicators
+unity-lenses/unity-lens-applications 7.1.0-r200402: Application lens for the Unity7 user interface
+unity-lenses/unity-lens-files 7.1.0-r180402: File lens for the Unity7 user interface
+unity-lenses/unity-lens-meta 0-r211001: Unity Desktop - merge this to pull in all Unity lenses
+unity-lenses/unity-lens-music 6.9.1-r180401: Music lens for the Unity7 user interface
+unity-lenses/unity-lens-photos 1.0-r210402: Photo lens for the Unity7 user interface
+unity-lenses/unity-lens-video 0.3.15-r180401: Video lens for the Unity7 user interface
+unity-scopes/smart-scopes 0-r211003: Online scopes for the Unity Dash
+unity-scopes/unity-scope-home 6.8.2-r200403: Home scope that aggregates results from multiple scopes for the Unity7 user interface
+x11-libs/dee-qt 3.3-r200401: Qt binding and QML plugin for Dee for the Unity7 user interface
+x11-libs/gsettings-qt 0.2-r230401: Qml bindings for GSettings.
+x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
+x11-misc/notify-osd 0.9.35-r220401: Canonical's on-screen-display notification agent
+x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
+x11-themes/humanity-icon-theme 0.6.16-r220401: A nice and well polished icon theme
+x11-themes/notify-osd-icons 0.8-r210401: Icons for on-screen-display notification agent
+x11-themes/ubuntu-sounds 0.14-r190401: Default audio theme for the Unity
+x11-themes/ubuntu-themes 20.10-r230401: Monochrome icons for the Unity7 user interface (default icon theme)
+x11-themes/ubuntu-touch-sounds 15.08-r220401: Default audio theme for the Unity
+x11-themes/ubuntu-unity-backgrounds 23.04.1-r230401: Default backgrounds in Ubuntu Unity
+x11-themes/ubuntu-wallpapers 23.04.1-r230401: Ubuntu wallpapers
+x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
+x11-themes/yaru-theme 23.04.4-r230402: Yaru theme from the Ubuntu Community

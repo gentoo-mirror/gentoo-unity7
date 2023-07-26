@@ -1,0 +1,14 @@
+DEFINED_PHASES=postinst prepare setup
+DESCRIPTION=Unity Desktop - merge this to pull in all Unity lenses
+EAPI=8
+HOMEPAGE=https://wiki.ubuntu.com/Unity
+INHERIT=ubuntu-versionator
+IUSE=+files +music +photos plugins +video
+KEYWORDS=amd64
+LICENSE=metapackage
+PDEPEND=unity-base/unity-settings[files=,music=,photos=,video=]
+RDEPEND=unity-lenses/unity-lens-applications unity-scopes/unity-scope-home files? ( unity-lenses/unity-lens-files ) music? ( unity-lenses/unity-lens-music ) photos? ( unity-lenses/unity-lens-photos ) plugins? ( unity-scopes/smart-scopes ) video? ( unity-lenses/unity-lens-video )
+RESTRICT=binchecks strip test mirror
+SLOT=0
+_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=0ff7efa2a4ac500fd90d2b0e9f6d9557

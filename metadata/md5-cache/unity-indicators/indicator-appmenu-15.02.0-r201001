@@ -1,0 +1,17 @@
+BDEPEND=dev-util/gtk-doc dev-util/intltool sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 app-arch/xz-utils
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup
+DEPEND=>=dev-libs/glib-2.41.1:2 >=dev-libs/libdbusmenu-0.5.90[gtk3] >=dev-libs/libindicator-0.4.90:3 >=unity-base/bamf-0.5.2:0= >=x11-libs/gtk+-3.5.12:3 tools? ( >=dev-libs/libdbusmenu-0.5.90[test] ) dev-libs/libappindicator:3 gnome-base/gnome-common >=unity-indicators/indicator-application-0.4.90
+DESCRIPTION=Indicator for application menus used by the Unity7 user interface
+EAPI=8
+HOMEPAGE=https://launchpad.net/indicator-appmenu
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=gnome2 ubuntu-versionator
+IUSE=tools
+KEYWORDS=amd64
+LICENSE=GPL-3
+RDEPEND=>=dev-libs/glib-2.41.1:2 >=dev-libs/libdbusmenu-0.5.90[gtk3] >=dev-libs/libindicator-0.4.90:3 >=unity-base/bamf-0.5.2:0= >=x11-libs/gtk+-3.5.12:3 tools? ( >=dev-libs/libdbusmenu-0.5.90[test] ) gnome-base/dconf >=sys-libs/glibc-2.4 unity-base/unity-gtk-module x11-libs/libX11
+RESTRICT=test mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/indicator-appmenu_15.02.0+20.10.20200617.2.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/indicator-appmenu_15.02.0+20.10.20200617.2-0ubuntu1.diff.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	9bd787a54d31405e742ae7537eed650b	ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=0a749122fc4d221ba91dfd725a49c4d5

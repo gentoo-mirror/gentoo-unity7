@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig doc? ( app-doc/doxygen ) sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=compile configure install postinst prepare setup
+DEPEND=>=x11-libs/libX11-1.2.99.901 >=x11-libs/libXi-1.5.99.2 app-text/asciidoc app-text/docbook-xsl-stylesheets dev-libs/libxslt x11-base/xorg-server test? ( dev-cpp/gtest )
+DESCRIPTION=Touch Frame Library
+EAPI=8
+HOMEPAGE=https://launchpad.net/frame
+INHERIT=ubuntu-versionator
+IUSE=doc test
+KEYWORDS=amd64
+LICENSE=GPL-3 LGPL-3
+RDEPEND=>=x11-libs/libX11-1.2.99.901 >=x11-libs/libXi-1.5.99.2 >=sys-devel/gcc-5 >=sys-libs/glibc-2.15
+RESTRICT=!test? ( test ) mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/frame_2.5.0daily13.06.05+16.10.20160809.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/frame_2.5.0daily13.06.05+16.10.20160809-0ubuntu3.diff.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=f6d939d9eba6e3798917e55ef56a440c

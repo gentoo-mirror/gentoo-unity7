@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst prepare setup
+DEPEND=media-gfx/scour
+DESCRIPTION=Icons for on-screen-display notification agent
+EAPI=8
+HOMEPAGE=https://launchpad.net/notify-osd
+INHERIT=ubuntu-versionator
+KEYWORDS=amd64
+LICENSE=CC-BY-SA-3.0
+RESTRICT=binchecks strip test mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/notify-osd-icons_0.8+15.10.20151016.2.orig.tar.gz
+_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=89507ec08e292387cf62fee146eb196b

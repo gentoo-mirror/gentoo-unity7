@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig test? ( x11-base/xorg-server[xvfb] x11-apps/xhost )
+DEFINED_PHASES=configure install postinst prepare setup
+DEPEND=>=dev-libs/glib-2.39.4:2 >=dev-qt/qtcore-5.14.1:5 >=dev-qt/qtdeclarative-5.10.0 x11-apps/xauth
+DESCRIPTION=Qml bindings for GSettings.
+EAPI=8
+HOMEPAGE=https://gitlab.com/ubports/development/core/gsettings-qt
+INHERIT=qmake-utils ubuntu-versionator virtualx
+IUSE=test
+KEYWORDS=amd64
+LICENSE=GPL-3
+RDEPEND=>=dev-libs/glib-2.39.4:2 >=dev-qt/qtcore-5.14.1:5 >=dev-qt/qtdeclarative-5.10.0 >=sys-devel/gcc-5 >=sys-libs/glibc-2.14
+RESTRICT=test mirror !test? ( test )
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_0.2.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_0.2-5.debian.tar.xz
+_eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	ubuntu-versionator	11ae2542f83215c93912b37657770f82	virtualx	817571665ee28575da44ee08135089e5
+_md5_=7b32a206ec88a0b86571618a3d1788c4

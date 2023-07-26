@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=compile configure install postinst prepare setup
+DEPEND=nls? ( virtual/libintl )
+DESCRIPTION=Userspace utilities for the Linux kernel cpufreq subsystem
+EAPI=8
+HOMEPAGE=https://www.kernel.org/pub/linux/utils/kernel/cpufreq/cpufrequtils.html
+INHERIT=systemd ubuntu-versionator
+IUSE=debug nls
+KEYWORDS=amd64
+LICENSE=GPL-2
+RDEPEND=>=sys-libs/glibc-2.7
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/cpufrequtils_008.orig.tar.bz2 https://launchpad.net/ubuntu/+archive/primary/+files/cpufrequtils_008-2build1.debian.tar.xz
+_eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	5f4bb0758df2e483babf68cd517078ca	ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=650b8ed95fbd063708b4545453ae1bca

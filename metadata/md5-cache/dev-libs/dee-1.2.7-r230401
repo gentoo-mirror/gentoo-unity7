@@ -1,0 +1,17 @@
+BDEPEND=virtual/pkgconfig sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure install postinst prepare setup
+DEPEND=dev-libs/dbus-glib dev-libs/glib:2 icu? ( dev-libs/icu:= ) dev-libs/gobject-introspection gnome-base/gnome-common sys-apps/dbus doc? ( dev-util/gtk-doc ) test? ( dev-util/dbus-test-runner ) python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_10? ( dev-python/pygobject:3[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/pygobject:3[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/pygobject:3[python_targets_python3_12(-)] ) || ( dev-lang/vala:0.56 )
+DESCRIPTION=Provide objects allowing to create Model-View-Controller type programs across DBus
+EAPI=8
+HOMEPAGE=https://launchpad.net/dee/
+INHERIT=python-single-r1 vala ubuntu-versionator
+IUSE=debug doc examples +icu test python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
+KEYWORDS=amd64
+LICENSE=GPL-3 LGPL-3
+RDEPEND=dev-libs/dbus-glib dev-libs/glib:2 icu? ( dev-libs/icu:= ) >=sys-libs/glibc-2.33 doc? ( dev-util/devhelp )
+REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 )
+RESTRICT=!test? ( test ) mirror
+SLOT=0/17.10.20170616-7build1
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/dee_1.2.7+17.10.20170616.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/dee_1.2.7+17.10.20170616-7build1.debian.tar.xz
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-single-r1	75118e916668a74c660a13b0ecb22562	flag-o-matic	ad475baa777c9978fa035216c8264a10	vala	db97951caa799e73a831a5f48e717da8	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=4eda9985d27fc66a9cc937662dadba1c

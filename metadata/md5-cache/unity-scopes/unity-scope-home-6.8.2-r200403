@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure postinst prepare setup
+DEPEND=>=dev-libs/dee-1.2.7:0= >=dev-libs/glib-2.43.92:2 >=dev-libs/json-glib-0.13.2 >=dev-libs/libgee-0.8.3:0.8 >=dev-libs/libunity-7.1.4:0= >=net-libs/libsoup-2.24.3:2.4 sys-apps/lsb-release >=sys-apps/util-linux-2.16 gnome-base/gnome-common || ( dev-lang/vala:0.56 )
+DESCRIPTION=Home scope that aggregates results from multiple scopes for the Unity7 user interface
+EAPI=8
+HOMEPAGE=https://launchpad.net/unity-scope-home
+INHERIT=vala ubuntu-versionator
+IUSE=test
+KEYWORDS=amd64
+LICENSE=GPL-3
+RDEPEND=>=dev-libs/dee-1.2.7:0= >=dev-libs/glib-2.43.92:2 >=dev-libs/json-glib-0.13.2 >=dev-libs/libgee-0.8.3:0.8 >=dev-libs/libunity-7.1.4:0= >=net-libs/libsoup-2.24.3:2.4 sys-apps/lsb-release >=sys-apps/util-linux-2.16 >=sys-libs/glibc-2.7
+RESTRICT=!test? ( test ) mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-scope-home_6.8.2+19.04.20190412.orig.tar.gz
+_eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	ad475baa777c9978fa035216c8264a10	vala	db97951caa799e73a831a5f48e717da8	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=758e04c6b9e1e140602d3ced6c264bdd

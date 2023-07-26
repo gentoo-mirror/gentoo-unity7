@@ -1,0 +1,152 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+dev-java/jayatana:system-wide - Enable Jayatana system-wide way
+dev-libs/libcolumbus:coverage - Include coverage reports (gcov, lcov)
+dev-libs/libcolumbus:pch - Build using pre-compiled headers (it can lead to unclear build failures!)
+dev-libs/libqtdbusmock:coverage - Include coverage reports (gcov, lcov)
+dev-libs/libqtdbustest:coverage - Include coverage reports (gcov, lcov)
+dev-util/cmake-extras:test - Install Google C++ Testing Framework dev-cpp/gtets
+gnome-extra/zeitgeist:datahub - Use build datahub for passive event injection
+gnome-extra/zeitgeist:downloads-monitor - Monitor the XDG_DOWNLOAD_DIRECTORY
+gnome-extra/zeitgeist:fts - Enable the full text search extension
+gnome-extra/zeitgeist:sql-debug - Enable SQL debugging
+gnome-extra/zeitgeist:telepathy - Enable telepathy framework as data source
+media-fonts/fonts-noto-cjk:extra - CJK all weight
+net-libs/geonames:demo - Build demo application
+net-misc/vino:telepathy - Enable desktop sharing through a telepathy client
+unity-base/compiz:gles2 - Use OpenGL ES 2.0
+unity-base/compiz:mate - Install MATE integration
+unity-base/nux:gles2 - Use OpenGL ES 2.0
+unity-base/unity:gles2 - Use OpenGL ES 2.0
+unity-base/unity:hud - Enable the backend for Unity's HUD
+unity-base/unity:pch - Build using pre-compiled headers (it can lead to unclear build failures!)
+unity-base/unity:systray - Enable system tray support in the notification area for all applications
+unity-base/unity:uwidgets - Plugin system for Unity to display widgets on top of background
+unity-base/unity-api:pch - Build using pre-compiled headers (it can lead to unclear build failures!)
+unity-base/unity-build-env:dev - Unmask overlay development packages with missing keyword (experimental)
+unity-base/unity-control-center:colord - Support color management using x11-misc/colord
+unity-base/unity-control-center:fcitx - Enable support for enhanced input methods through app-i18n/fcitx
+unity-base/unity-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
+unity-base/unity-control-center:i18n - Enable support for enhanced input methods through app-i18n/ibus
+unity-base/unity-meta:accessibility - Install accessibility packages
+unity-base/unity-meta:apps - Install web browser, email client and office suite, defaults to www-client/firefox, mail-client/thunderbird and app-office/libreoffice
+unity-base/unity-meta:chat - Install instant messenger, defaults to net-im/pidgin
+unity-base/unity-meta:core - Install Unity core applications
+unity-base/unity-meta:extra - Install Unity extra applications
+unity-base/unity-meta:fonts - Install additional fonts
+unity-base/unity-meta:games - Install games
+unity-base/unity-meta:gnome - Install Gnome extra applications depending on gui-libs/libadwaita (theming is not fully supported)
+unity-base/unity-meta:xdm - Use a display manager, defaults to x11-misc/lightdm and unity-extra/unity-greeter
+unity-base/unity-settings:files - Enable Files lens in Dash
+unity-base/unity-settings:lowgfx - Enable Low Graphics Mode
+unity-base/unity-settings:music - Enable Music lens in Dash
+unity-base/unity-settings:photos - Enable Photos lens in Dash
+unity-base/unity-settings:ubuntu-cursor - Enable DMZ-White - Ubuntu's default cursor theme
+unity-base/unity-settings:ubuntu-sounds - Enable Ubuntu's default audio theme
+unity-base/unity-settings:ubuntu-unity - Set the theme from Ubuntu Unity as a default one
+unity-base/unity-settings:video - Enable Video lens in Dash
+unity-base/unity-settings-daemon:colord - Support color management using x11-misc/colord
+unity-base/unity-settings-daemon:fcitx - Enable support for enhanced input methods through app-i18n/fcitx
+unity-base/unity-settings-daemon:i18n - Enable support for enhanced input methods through app-i18n/ibus
+unity-base/unity-settings-daemon:rfkill - build support for rfkill
+unity-base/unity-settings-daemon:short-touchpad-timeout - Change the touchpad timeout so that it's effective for fast typists
+unity-extra/diodon:indicator - Enable build of indicator plugin
+unity-extra/diodon:scope - Enable build of unity scope
+unity-extra/ehooks:fontconfig - Adjust fonts configuration according to Ubuntu
+unity-extra/ehooks:libreoffice - Add Ubuntu's Human icon theme for app-office/libreoffice and make it the default
+unity-extra/unity-greeter:battery - Use power state indicator for login screen
+unity-extra/unity-greeter:sound - Use sound indicator for login screen
+unity-extra/unity-tweak-tool:files - Enable Files lens support
+unity-indicators/indicator-appmenu:tools - Install tools for debugging application menus
+unity-indicators/indicator-datetime:coverage - Include coverage reports (gcov, lcov)
+unity-indicators/indicator-datetime:eds - Enable support for Evolution-Data-Server
+unity-indicators/indicator-keyboard:charmap - Enable Character Map
+unity-indicators/indicator-power:coverage - Include coverage reports (gcov, lcov)
+unity-indicators/indicator-power:powerman - Enable Gnome Power Manager
+unity-indicators/indicator-session:coverage - Include coverage reports (gcov, lcov)
+unity-indicators/indicator-session:help - Enable 'Unity Help' menu item linking to Unity documentation
+unity-indicators/indicator-sound:coverage - Include coverage reports (gcov, lcov)
+unity-indicators/unity-indicators-meta:appearance - Ubuntu Unity theme indicator
+unity-indicators/unity-indicators-meta:battery - Battery power indicator
+unity-indicators/unity-indicators-meta:bluetooth - Bluetooth settings and transfers indicator
+unity-indicators/unity-indicators-meta:datetime - Date, time and calendar indicator
+unity-indicators/unity-indicators-meta:keyboard - Keyboard layout indicator
+unity-indicators/unity-indicators-meta:mail - Mail notification daemon integrated into messaging menu
+unity-indicators/unity-indicators-meta:notifications - Collects recent messages sent with libnotify to a notification daemon
+unity-indicators/unity-indicators-meta:paste - Copy/Paste clipboard indicator
+unity-indicators/unity-indicators-meta:printer - Printer jobs indicator
+unity-indicators/unity-indicators-meta:sensors - Hardware sensors indicator such as CPU temp
+unity-indicators/unity-indicators-meta:session - Session management indicator
+unity-indicators/unity-indicators-meta:sound - Audio control and application launching indicator
+unity-indicators/unity-indicators-meta:weather - Weather indicator
+unity-lenses/unity-lens-meta:files - Files/folders lens for the Dash
+unity-lenses/unity-lens-meta:music - Music collection lens for the Dash
+unity-lenses/unity-lens-meta:photos - Photo collection lens for the Dash
+unity-lenses/unity-lens-meta:plugins - Additional scopes for the Dash
+unity-lenses/unity-lens-meta:video - Online and local video collection lens for the Dash
+unity-scopes/smart-scopes:audacious - Audacious scope for Unity
+unity-scopes/smart-scopes:calculator - Calculator scope for Unity
+unity-scopes/smart-scopes:chromiumbookmarks - Chromium bookmarks scope for Unity
+unity-scopes/smart-scopes:clementine - Clementine scope for Unity
+unity-scopes/smart-scopes:colourlovers - COLOURlovers scope for Unity
+unity-scopes/smart-scopes:devhelp - devhelp scope for Unity
+unity-scopes/smart-scopes:deviantart - deviantART scope for Unity
+unity-scopes/smart-scopes:firefoxbookmarks - Firefox bookmarks scope for Unity
+unity-scopes/smart-scopes:gallica - gallica scope for Unity
+unity-scopes/smart-scopes:github - GitHub scope for Unity
+unity-scopes/smart-scopes:gmusicbrowser - gmusicbrowser scope for Unity
+unity-scopes/smart-scopes:gnote - Gnote scope for Unity
+unity-scopes/smart-scopes:googlenews - Google News scope for Unity
+unity-scopes/smart-scopes:gourmet - Gourmet Recipe Manager scope for Unity
+unity-scopes/smart-scopes:guayadeque - Guayadeque scope for Unity
+unity-scopes/smart-scopes:manpages - Manual pages scope for Unity
+unity-scopes/smart-scopes:musique - Musique scope for Unity
+unity-scopes/smart-scopes:onlinemusic - Unity Scope that provides online music to the Dash
+unity-scopes/smart-scopes:openclipart - OpenClipArt scope for Unity
+unity-scopes/smart-scopes:openweathermap - Openweathermap scope for Unity
+unity-scopes/smart-scopes:soundcloud - SoundCloud scope for Unity
+unity-scopes/smart-scopes:sshsearch - SSH search scope for Unity
+unity-scopes/smart-scopes:texdoc - Texdoc scope for Unity
+unity-scopes/smart-scopes:virtualbox - VirtualBox scope for Unity
+unity-scopes/smart-scopes:yahoostock - Yahoo! Finance scope for Unity
+unity-scopes/smart-scopes:yelp - Help scope for Unity
+unity-scopes/smart-scopes:zotero - Zotero scope for Unity
+x11-themes/humanity-icon-theme:extra - Install Tangerine icon theme from Ubuntu Art Team
+x11-themes/humanity-icon-theme:optimize - Enable icons optimization
+x11-themes/ubuntu-themes:optimize - Enable icons optimization
+x11-themes/ubuntu-wallpapers:artful - Artful Aardvark wallpapers
+x11-themes/ubuntu-wallpapers:bionic - Bionic Beaver wallpapers
+x11-themes/ubuntu-wallpapers:cosmic - Cosmic Cuttlefish wallpapers
+x11-themes/ubuntu-wallpapers:disco - Disco Dingo wallpapers
+x11-themes/ubuntu-wallpapers:eoan - Eoan Ermine wallpapers
+x11-themes/ubuntu-wallpapers:focal - Focal Fossa wallpapers
+x11-themes/ubuntu-wallpapers:gnome - Gnome wallpapers
+x11-themes/ubuntu-wallpapers:groovy - Groovy Gorilla wallpapers
+x11-themes/ubuntu-wallpapers:hirsute - Hirsute Hippo wallpapers
+x11-themes/ubuntu-wallpapers:impish - Impish Indri wallpapers
+x11-themes/ubuntu-wallpapers:jammy - Jammy Jellyfish wallpapers
+x11-themes/ubuntu-wallpapers:karmic - Karmic Koala wallpapers
+x11-themes/ubuntu-wallpapers:kinetic - Kinetic Kudu wallpapers
+x11-themes/ubuntu-wallpapers:lucid - Lucid Lynx wallpapers
+x11-themes/ubuntu-wallpapers:lunar - Lunar Lobster wallpapers
+x11-themes/ubuntu-wallpapers:maverick - Maverick Meerkat wallpapers
+x11-themes/ubuntu-wallpapers:natty - Natty Narwhal wallpapers
+x11-themes/ubuntu-wallpapers:oneiric - Oneiric Ocelot wallpapers
+x11-themes/ubuntu-wallpapers:precise - Precise Pangolin wallpapers
+x11-themes/ubuntu-wallpapers:quantal - Quantal Quetzal wallpapers
+x11-themes/ubuntu-wallpapers:raring - Raring Ringtail wallpapers
+x11-themes/ubuntu-wallpapers:saucy - Saucy Salamander wallpapers
+x11-themes/ubuntu-wallpapers:trusty - Trusty Tahr wallpapers
+x11-themes/ubuntu-wallpapers:utopic - Utopic Unicorn wallpapers
+x11-themes/ubuntu-wallpapers:vivid - Vivid Vervet wallpapers
+x11-themes/ubuntu-wallpapers:wily - Wily Werewolf wallpapers
+x11-themes/ubuntu-wallpapers:xenial - Xenial Xerus wallpapers
+x11-themes/ubuntu-wallpapers:yakkety - Yakkety Yak wallpapers
+x11-themes/ubuntu-wallpapers:zesty - Zesty Zapus wallpapers
+x11-themes/yaru-theme:cinnamon - Build Yaru with Cinnamon flavour
+x11-themes/yaru-theme:gnome-shell - Build gnome-shell component
+x11-themes/yaru-theme:mate - Build Yaru mate flavour
+x11-themes/yaru-theme:unity - Build Yaru with Unity assets
+x11-themes/yaru-theme:xfwm - Build Yaru with xfwm4 assets

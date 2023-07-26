@@ -1,0 +1,13 @@
+DEFINED_PHASES=postinst prepare setup
+DESCRIPTION=Unity Desktop - merge this to pull in all Unity indicators
+EAPI=8
+HOMEPAGE=https://wiki.ubuntu.com/Unity
+INHERIT=ubuntu-versionator
+IUSE=appearance +battery bluetooth +cups +datetime java +keyboard mail +notifications paste sensors +session +sound weather
+KEYWORDS=amd64
+LICENSE=metapackage
+RDEPEND=unity-indicators/indicator-appmenu unity-indicators/indicator-datetime appearance? ( unity-base/unity-settings[ubuntu-unity] unity-indicators/unity-indicator-appearance ) battery? ( unity-indicators/indicator-power ) bluetooth? ( unity-indicators/indicator-bluetooth ) cups? ( unity-indicators/indicator-printers ) java? ( dev-java/jayatana ) keyboard? ( unity-indicators/indicator-keyboard ) mail? ( net-mail/mailnag[messagingmenu] ) notifications? ( unity-indicators/indicator-notifications ) paste? ( unity-extra/diodon ) sensors? ( unity-extra/indicator-psensor ) session? ( unity-indicators/indicator-session ) sound? ( unity-indicators/indicator-sound ) weather? ( unity-extra/meteo-qt )
+RESTRICT=binchecks strip test mirror
+SLOT=0
+_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=27a59690f7a9974b2a63d33cbb8c006b

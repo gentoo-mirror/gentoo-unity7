@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst prepare setup
+DESCRIPTION=Merge this to setup the Unity7 build environment package.{accept_keywords,env,mask,unmask,use} files
+EAPI=8
+HOMEPAGE=https://wiki.ubuntu.com/Unity
+INHERIT=ubuntu-versionator
+IUSE=dev
+KEYWORDS=amd64
+LICENSE=GPL-2
+PDEPEND=unity-extra/ehooks
+RESTRICT=binchecks strip test mirror
+SLOT=0
+_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_md5_=a6e17f6cdc103c71c8150bae916cc3d4
