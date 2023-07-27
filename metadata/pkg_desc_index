@@ -9,7 +9,7 @@ dev-libs/libqtdbustest 0.2-r230401: Library to facilitate testing DBus interacti
 dev-libs/libunity 7.1.4-r220403: Library for instrumenting and integrating with all aspects of the Unity shell
 dev-libs/libunity-misc 4.0.5-r191002: Miscellaneous modules for the Unity7 user interface
 dev-libs/libzeitgeist 0.3.18-r160401: Client library to interact with zeitgeist
-dev-libs/properties-cpp 0.0.2-r221001: Simple convenience library for handling properties and signals in C++11
+dev-libs/properties-cpp 0.0.2-r221001 0.0.3-r231001: Simple convenience library for handling properties and signals in C++11
 dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath queries
 dev-util/cmake-extras 1.6-r220401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
