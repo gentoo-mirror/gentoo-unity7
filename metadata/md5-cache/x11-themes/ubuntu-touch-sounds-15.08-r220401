@@ -8,5 +8,5 @@ LICENSE=CC-BY-SA-3.0
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/ubuntu-touch-sounds_15.08.tar.gz
-_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_eclasses_=ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
 _md5_=7284139c7560e142dab46eeac2c9224a

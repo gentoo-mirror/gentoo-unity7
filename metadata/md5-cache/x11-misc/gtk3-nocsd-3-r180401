@@ -10,5 +10,5 @@ RDEPEND=>=sys-libs/glibc-2.4
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3-1ubuntu1.debian.tar.xz
-_eclasses_=ubuntu-versionator	11ae2542f83215c93912b37657770f82
+_eclasses_=ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
 _md5_=991b86d0470c9b93e4e07364df8d9755
