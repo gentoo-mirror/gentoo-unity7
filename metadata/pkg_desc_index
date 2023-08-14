@@ -4,8 +4,8 @@ dev-java/jayatana 0.7.6: Global menu for Java applications
 dev-libs/dee 1.2.7-r230401: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/libcolumbus 1.1.0-r230401: Error tolerant matching engine used by the Unity7 user interface
 dev-libs/libindicator 16.10.0-r2220401 16.10.0-r3220401: A set of symbols and convenience functions that all indicators would like to use
-dev-libs/libqtdbusmock 0.7-r210401 0.9.0-r231001: Qt Bindings for python-dbusmock
-dev-libs/libqtdbustest 0.2-r230401 0.3.2-r231001: Library to facilitate testing DBus interactions in Qt applications
+dev-libs/libqtdbusmock 0.7-r210401 0.9.0-r231002: Qt Bindings for python-dbusmock
+dev-libs/libqtdbustest 0.2-r230401 0.3.2-r231002: Library to facilitate testing DBus interactions in Qt applications
 dev-libs/libunity 7.1.4-r220403: Library for instrumenting and integrating with all aspects of the Unity shell
 dev-libs/libunity-misc 4.0.5-r191002: Miscellaneous modules for the Unity7 user interface
 dev-libs/libzeitgeist 0.3.18-r160401: Client library to interact with zeitgeist
