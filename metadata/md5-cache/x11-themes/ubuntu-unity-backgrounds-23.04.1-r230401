@@ -8,5 +8,5 @@ LICENSE=CC-BY-NC-SA-4.0
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/ubuntu-unity-backgrounds_23.04.1.orig.tar.xz
-_eclasses_=ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
+_eclasses_=ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
 _md5_=244aa7fef6143abca979d41836d57593

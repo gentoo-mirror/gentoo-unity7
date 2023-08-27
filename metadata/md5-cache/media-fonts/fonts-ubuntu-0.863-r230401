@@ -1,0 +1,15 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm prepare setup
+DESCRIPTION=Set of matching libre/open fonts funded by Canonical
+EAPI=8
+HOMEPAGE=https://design.ubuntu.com/font/
+INHERIT=font ubuntu-versionator
+IUSE=X
+KEYWORDS=amd64
+LICENSE=UbuntuFontLicense-1.0
+RDEPEND=!media-fonts/ubuntu-font-family
+RESTRICT=binchecks strip test mirror
+SLOT=0
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/fonts-ubuntu_0.863.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/fonts-ubuntu_0.863-0ubuntu3.debian.tar.xz
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
+_md5_=f21355efebb5cb4774ebe4621be12693

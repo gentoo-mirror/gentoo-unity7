@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.43.2:2 >=dev-libs/libdbusmenu-0.4.2[gtk3] >=gnome-base
 RESTRICT=test mirror
 SLOT=0/22.04.20220217-0ubuntu1
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217-0ubuntu1.diff.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801	flag-o-matic	be27a904c614cb93ae037762dc69bcc2	vala	db97951caa799e73a831a5f48e717da8
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8e7580cc2503297929982e2f5fbee295	flag-o-matic	be27a904c614cb93ae037762dc69bcc2	vala	db97951caa799e73a831a5f48e717da8
 _md5_=049cfeaa6f2e60cbbc12048a98670507

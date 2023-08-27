@@ -15,7 +15,8 @@ dev-util/cmake-extras 1.6-r220401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.3-r210402: Service to log activities and present to other apps
-media-fonts/fonts-noto-cjk 20220127-r220401: No Tofu CJK font families with large Unicode coverage
+media-fonts/fonts-noto-cjk 20220127-r220401: 'No Tofu' CJK font families with large Unicode coverage
+media-fonts/fonts-ubuntu 0.863-r230401: Set of matching libre/open fonts funded by Canonical
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.0-r230401: Parse and query the geonames database dump
 net-mail/mailnag 2.2.0-r220402: An extensible mail notification daemon
@@ -87,4 +88,4 @@ x11-themes/ubuntu-touch-sounds 15.08-r220401: Default audio theme for the Unity
 x11-themes/ubuntu-unity-backgrounds 23.04.1-r230401: Default backgrounds in Ubuntu Unity
 x11-themes/ubuntu-wallpapers 23.04.1-r230401: Ubuntu wallpapers
 x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
-x11-themes/yaru-theme 23.04.4-r230402: Yaru theme from the Ubuntu Community
+x11-themes/yaru-theme 23.04.4-r230403: Yaru theme from the Ubuntu Community

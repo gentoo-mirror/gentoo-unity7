@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PDEPEND=unity-extra/ehooks
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
+_eclasses_=ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
 _md5_=a6e17f6cdc103c71c8150bae916cc3d4

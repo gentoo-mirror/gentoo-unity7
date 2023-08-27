@@ -9,5 +9,5 @@ LICENSE=CC-BY-SA-3.0
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/notify-osd-icons_0.8+15.10.20151016.2.orig.tar.gz
-_eclasses_=ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
+_eclasses_=ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
 _md5_=89507ec08e292387cf62fee146eb196b

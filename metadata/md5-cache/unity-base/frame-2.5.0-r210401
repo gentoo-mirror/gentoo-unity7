@@ -12,5 +12,5 @@ RDEPEND=>=x11-libs/libX11-1.2.99.901 >=x11-libs/libXi-1.5.99.2 >=sys-devel/gcc-5
 RESTRICT=!test? ( test ) mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/frame_2.5.0daily13.06.05+16.10.20160809.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/frame_2.5.0daily13.06.05+16.10.20160809-0ubuntu3.diff.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	6fe9c2f31d23ded7eac33decc9d54801
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
 _md5_=f6d939d9eba6e3798917e55ef56a440c
