@@ -11,5 +11,5 @@ RDEPEND=dev-libs/glib >=gnome-extra/nemo-2.0.0 app-arch/engrampa
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/nemo-fileroller_5.6.1.orig.tar.xz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	59e60e9c5cbd3f214d7f1002e798b387	meson	08b7183c3f4811568ee93eb0f79a89fe	ubuntu-versionator	8e7580cc2503297929982e2f5fbee295
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	59e60e9c5cbd3f214d7f1002e798b387	meson	08b7183c3f4811568ee93eb0f79a89fe	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=3e26f2eaaf05118eac66383cc8ffb88b

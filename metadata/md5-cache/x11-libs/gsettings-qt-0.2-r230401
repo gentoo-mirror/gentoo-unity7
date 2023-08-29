@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.39.4:2 >=dev-qt/qtcore-5.14.1:5 >=dev-qt/qtdeclarative
 RESTRICT=test mirror !test? ( test )
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_0.2.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_0.2-5.debian.tar.xz
-_eclasses_=toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	ubuntu-versionator	8e7580cc2503297929982e2f5fbee295	virtualx	817571665ee28575da44ee08135089e5
+_eclasses_=toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee	virtualx	817571665ee28575da44ee08135089e5
 _md5_=7b32a206ec88a0b86571618a3d1788c4
