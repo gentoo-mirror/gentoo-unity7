@@ -15,7 +15,7 @@ dev-util/cmake-extras 1.6-r220401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.3-r210402: Service to log activities and present to other apps
-media-fonts/fonts-noto-cjk 20220127-r220401: 'No Tofu' CJK font families with large Unicode coverage
+media-fonts/fonts-noto-cjk 20220127-r220401 20230817-r231001: 'No Tofu' CJK font families with large Unicode coverage
 media-fonts/fonts-ubuntu 0.863-r230401 0.869-r231001: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.0-r230401: Parse and query the geonames database dump
