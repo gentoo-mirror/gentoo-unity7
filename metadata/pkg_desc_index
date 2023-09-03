@@ -21,7 +21,6 @@ media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.0-r230401: Parse and query the geonames database dump
 net-mail/mailnag 2.2.0-r220402: An extensible mail notification daemon
 net-misc/vino 3.22.0-r220401: An integrated VNC server for GNOME
-net-wireless/gnome-bluetooth 3.34.5-r230401: Bluetooth graphical utilities integrated with GNOME
 sys-power/cpufrequtils 008-r220401: Userspace utilities for the Linux kernel cpufreq subsystem
 unity-base/bamf 0.5.6-r220402: BAMF Application Matching Framework
 unity-base/compiz 0.9.14.2-r230403: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
@@ -89,4 +88,4 @@ x11-themes/ubuntu-touch-sounds 15.08-r220401: Default audio theme for the Unity
 x11-themes/ubuntu-unity-backgrounds 23.04.1-r230401: Default backgrounds in Ubuntu Unity
 x11-themes/ubuntu-wallpapers 23.04.1-r230401: Ubuntu wallpapers
 x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
-x11-themes/yaru-theme 23.04.4-r230403: Yaru theme from the Ubuntu Community
+x11-themes/yaru-theme 23.04.4-r230403 23.10.0-r231001: Yaru theme from the Ubuntu Community
