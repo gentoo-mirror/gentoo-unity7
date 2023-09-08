@@ -86,6 +86,6 @@ x11-themes/ubuntu-sounds 0.14-r190401: Default audio theme for the Unity
 x11-themes/ubuntu-themes 20.10-r230401: Monochrome icons for the Unity7 user interface (default icon theme)
 x11-themes/ubuntu-touch-sounds 15.08-r220401: Default audio theme for the Unity
 x11-themes/ubuntu-unity-backgrounds 23.04.1-r230401: Default backgrounds in Ubuntu Unity
-x11-themes/ubuntu-wallpapers 23.04.1-r230401: Ubuntu wallpapers
+x11-themes/ubuntu-wallpapers 23.04.1-r230401 23.10.3-r231001: Ubuntu wallpapers
 x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
 x11-themes/yaru-theme 23.04.4-r230403 23.10.0-r231001: Yaru theme from the Ubuntu Community
