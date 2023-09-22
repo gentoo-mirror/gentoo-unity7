@@ -39,7 +39,7 @@ unity-base/unity-api 8.7-r210402: API for Unity shell integration
 unity-base/unity-build-env 0-r211001: Merge this to setup the Unity7 build environment package.{accept_keywords,env,mask,unmask,use} files
 unity-base/unity-control-center 15.04.0-r230401: Unity Desktop Configuration Tool
 unity-base/unity-gtk-module 0.0.0-r220401: GTK+ module for exporting old-style menus as GMenuModels
-unity-base/unity-language-pack 0-r230405 0-r231001: Language translations pack for Unity7 user interface
+unity-base/unity-language-pack 0-r230405 0-r231002: Language translations pack for Unity7 user interface
 unity-base/unity-meta 0-r230401: Unity Desktop - merge this to pull in all Unity packages
 unity-base/unity-settings 0-r230401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
