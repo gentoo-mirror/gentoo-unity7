@@ -28,7 +28,7 @@ unity-base/frame 2.5.0-r210401: Touch Frame Library
 unity-base/geis 2.2.17-r230401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
 unity-base/grail 3.1.1-r210401: An implementation of the GRAIL (Gesture Recognition And Instantiation Library) interface
 unity-base/gsettings-ubuntu-touch-schemas 0.0.7-r220401: GSettings desktop-wide schemas for the Unity7 user interface
-unity-base/hud 14.10-r210401: Backend for the Unity HUD
+unity-base/hud 14.10-r210402: Backend for the Unity HUD
 unity-base/nux 4.0.8-r220403: Visual rendering toolkit for the Unity7 user interface
 unity-base/overlay-scrollbar 0.2.17.1-r170401: Ayatana Scrollbars use an overlay to ensure scrollbars take up no active screen real-estate
 unity-base/session-migration 0.3.6-r220401: Tool to migrate in user session settings used by the Unity desktop
