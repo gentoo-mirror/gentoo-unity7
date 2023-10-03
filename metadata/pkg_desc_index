@@ -15,7 +15,7 @@ dev-util/cmake-extras 1.6-r220401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.3-r210402: Service to log activities and present to other apps
-media-fonts/fonts-noto-cjk 20220127-r220401 20230817-r231002: 'No Tofu' CJK font families with large Unicode coverage
+media-fonts/fonts-noto-cjk 20220127-r220401 20230817-r231003: 'No Tofu' CJK font families with large Unicode coverage
 media-fonts/fonts-ubuntu 0.863-r230401 0.869-r231001: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.0-r230401: Parse and query the geonames database dump
@@ -34,7 +34,7 @@ unity-base/overlay-scrollbar 0.2.17.1-r170401: Ayatana Scrollbars use an overlay
 unity-base/session-migration 0.3.6-r220401: Tool to migrate in user session settings used by the Unity desktop
 unity-base/session-shortcuts 1.4-r181001: Allows shutdown, logout, and reboot from dash
 unity-base/ubuntu-docs 16.04.4-r160404: Help files for the Unity7 user interface
-unity-base/unity 7.7.0-r230405: The Ubuntu Unity Desktop
+unity-base/unity 7.7.0-r230405 7.7.0-r231001: The Ubuntu Unity Desktop
 unity-base/unity-api 8.7-r210403: API for Unity shell integration
 unity-base/unity-build-env 0-r211001: Merge this to setup the Unity7 build environment package.{accept_keywords,env,mask,unmask,use} files
 unity-base/unity-control-center 15.04.0-r230401: Unity Desktop Configuration Tool
