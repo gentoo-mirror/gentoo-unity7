@@ -11,5 +11,5 @@ RDEPEND=>=dev-libs/glib-2.41.1:2 >=x11-libs/gtk+-3.8.2:3 >=sys-libs/glibc-2.29 v
 RESTRICT=test mirror
 SLOT=0/22.10.20221007-0ubuntu1
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/ido_13.10.0+22.10.20221007.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/ido_13.10.0+22.10.20221007-0ubuntu1.diff.gz
-_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	5f250f8d967fc24a6490b549586670fa	vala	db97951caa799e73a831a5f48e717da8	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	5ae516d405b6ae5636e487ea4350a8a2	vala	db97951caa799e73a831a5f48e717da8	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=91cf0b9a7f944cc34a57fb2937712f82
