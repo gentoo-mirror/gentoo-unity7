@@ -50,7 +50,7 @@ unity-extra/indicator-multiload 0.4-r171001: Graphical system load indicator for
 unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
 unity-extra/indicator-privacy 0.7: Indicator to change user privacy settings
 unity-extra/indicator-psensor 1.1.5-r210402: Indicator for monitoring hardware temperature used by the Unity7 user interface
-unity-extra/meteo-qt 3.3-r230401: System tray application for weather status information
+unity-extra/meteo-qt 3.3-r230401 3.3-r240401: System tray application for weather status information
 unity-extra/unity-greeter 23.10.1-r231001: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
 unity-extra/unity-tweak-tool 0.0.7-r230401: Configuration manager for the Unity7 user interface
 unity-indicators/ido 13.10.0-r221001: Widgets and other objects used for indicators by the Unity7 user interface
