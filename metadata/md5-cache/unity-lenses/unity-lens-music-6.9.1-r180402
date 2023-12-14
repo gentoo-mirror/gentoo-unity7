@@ -12,5 +12,5 @@ RDEPEND=>=dev-db/sqlite-3.7.7:3 >=dev-libs/dee-1.2.5:0= >=dev-libs/glib-2.37.3:2
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-lens-music_6.9.1+16.04.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/unity-lens-music_6.9.1+16.04-0ubuntu3.diff.gz
-_eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	b97a0a7215b2f463a485ff0599ab30bb	vala	e477903dbe0105930c51f170a592dc16	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	c816c598969cbaf38cc02d2496ad2e98	vala	e477903dbe0105930c51f170a592dc16	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=36166d223839c0caa696d8d76b79ddc9
