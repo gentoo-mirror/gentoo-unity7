@@ -1,4 +1,4 @@
-BDEPEND=dev-util/intltool >=app-portage/elt-patches-20170815 app-arch/xz-utils >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
+BDEPEND=dev-util/intltool >=app-portage/elt-patches-20170815 app-arch/xz-utils app-alternatives/ninja >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup test unpack
 DEPEND=>=dev-libs/glib-2.43.2:2 sys-apps/systemd[pam] >=dev-util/cmake-extras-1.3 sys-apps/dbus unity-base/unity-settings-daemon test? ( dev-cpp/gtest coverage? ( dev-util/gcovr dev-util/lcov ) )
 DESCRIPTION=Indicator showing session management, status and user switching used by the Unity7 user interface
@@ -14,5 +14,5 @@ REQUIRED_USE=coverage? ( test )
 RESTRICT=!test? ( test ) mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/indicator-session_17.3.20+21.10.20210613.1.orig.tar.gz
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	9bd787a54d31405e742ae7537eed650b	flag-o-matic	c816c598969cbaf38cc02d2496ad2e98	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	cmake	0f2e0c197fad0312f3c4765c9cf36271	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	9bd787a54d31405e742ae7537eed650b	flag-o-matic	c816c598969cbaf38cc02d2496ad2e98	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	c8951c1dfcc1d43e3f967f61fd0ec59c	cmake	0f2e0c197fad0312f3c4765c9cf36271	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=96de5184d77840009566cc9c7506ef3b
