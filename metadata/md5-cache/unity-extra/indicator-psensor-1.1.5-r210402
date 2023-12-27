@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 app-arch/xz-utils
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) || ( >=sys-devel/autoconf-2.72-r1:2.72 >=sys-devel/autoconf-2.71-r6:2.71 ) >=sys-devel/libtool-2.4.7 app-arch/xz-utils
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup
 DEPEND=>=dev-libs/json-c-0.15 >=dev-libs/libayatana-appindicator-0.2.92 >=dev-libs/libatasmart-0.13 >=dev-libs/libunity-3.4.6:0= >=gnome-base/libgtop-2.22.3:2= >=net-libs/libmicrohttpd-0.9.50 >=net-misc/curl-7.16.2 >=sys-apps/lm-sensors-3.5.0 >=sys-fs/udisks-2.0.0:2 >=x11-libs/gtk+-3.3.16:3 >=x11-libs/libnotify-0.7.0 app-text/asciidoc dev-util/cppcheck sys-apps/help2man sys-devel/gettext
 DESCRIPTION=Indicator for monitoring hardware temperature used by the Unity7 user interface
@@ -13,5 +13,5 @@ RDEPEND=>=dev-libs/json-c-0.15 >=dev-libs/libayatana-appindicator-0.2.92 >=dev-l
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/psensor_1.1.5.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/psensor_1.1.5-1.3ubuntu2.debian.tar.xz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	9bd787a54d31405e742ae7537eed650b	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	5f729b9cb10d5eda573cd604c93c6dc5	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	9bd787a54d31405e742ae7537eed650b	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=e4ec1cbc3f486d595a0d6a7e9f10c34b

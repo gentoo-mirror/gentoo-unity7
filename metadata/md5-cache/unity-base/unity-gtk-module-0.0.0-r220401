@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) || ( >=sys-devel/autoconf-2.72-r1:2.72 >=sys-devel/autoconf-2.71-r6:2.71 ) >=sys-devel/libtool-2.4.7
 DEFINED_PHASES=compile configure install postinst prepare setup
 DEPEND=>=x11-libs/gtk+-2.24.0:2 >=x11-libs/gtk+-3.3.16:3 x11-libs/libX11 doc? ( dev-util/gtk-doc )
 DESCRIPTION=GTK+ module for exporting old-style menus as GMenuModels
@@ -12,5 +12,5 @@ RDEPEND=>=x11-libs/gtk+-2.24.0:2 >=x11-libs/gtk+-3.3.16:3 x11-libs/libX11 >=dev-
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-gtk-module_0.0.0+18.04.20171202.orig.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	5f729b9cb10d5eda573cd604c93c6dc5	ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
 _md5_=078af37eba2e87b991b9fd2fe04853ef
