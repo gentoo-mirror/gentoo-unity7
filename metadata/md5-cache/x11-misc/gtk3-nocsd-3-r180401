@@ -11,4 +11,4 @@ RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3-1ubuntu1.debian.tar.xz
 _eclasses_=ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
-_md5_=991b86d0470c9b93e4e07364df8d9755
+_md5_=93b36a3affe15879e62400e587cb124b

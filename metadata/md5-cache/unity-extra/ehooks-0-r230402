@@ -11,4 +11,4 @@ RDEPEND=fontconfig? ( media-libs/freetype:2[adobe-cff,cleartype-hinting] )
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
-_md5_=3a61e0f053f368960f569eb30831c6b6
+_md5_=409a93fcd11a716342284b7e3d6b4323

@@ -11,4 +11,4 @@ RDEPEND=unity-lenses/unity-lens-applications unity-scopes/unity-scope-home files
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
-_md5_=0ff7efa2a4ac500fd90d2b0e9f6d9557
+_md5_=4ba1cb685e4b0273703a6d0193991b3f
