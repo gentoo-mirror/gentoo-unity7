@@ -7,7 +7,7 @@ DISTUTILS_SINGLE_IMPL=1
 PYTHON_COMPAT=( python3_{10..12} )
 
 UVER=
-UREV=5build7
+UREV=5ubuntu1
 
 inherit gnome2 distutils-r1 ubuntu-versionator
 
@@ -17,7 +17,7 @@ SRC_URI="${SRC_URI} ${UURL}-${UREV}.debian.tar.xz"
 
 LICENSE="GPL-3+ BSD"
 SLOT="0"
-KEYWORDS="amd64"
+KEYWORDS="~amd64"
 IUSE="+accessibility debug wayland"
 RESTRICT="test"
 
