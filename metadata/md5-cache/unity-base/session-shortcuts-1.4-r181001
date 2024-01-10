@@ -11,5 +11,5 @@ RDEPEND=gnome-base/gnome-session
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/session-shortcuts_1.4.tar.xz
-_eclasses_=ubuntu-versionator	8c9e5db68d99cb23e971c27e842236ee
+_eclasses_=ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
 _md5_=5591b88132cf34516e7d06a0e533902a
