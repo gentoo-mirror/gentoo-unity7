@@ -148,6 +148,7 @@ x11-themes/ubuntu-wallpapers:yakkety - Yakkety Yak wallpapers
 x11-themes/ubuntu-wallpapers:zesty - Zesty Zapus wallpapers
 x11-themes/yaru-theme:cinnamon - Build Yaru with Cinnamon flavour
 x11-themes/yaru-theme:gnome-shell - Build gnome-shell component
+x11-themes/yaru-theme:gtk - Support yaru accent colors using adwaita theming
 x11-themes/yaru-theme:mate - Build Yaru mate flavour
 x11-themes/yaru-theme:unity - Build Yaru with Unity assets
 x11-themes/yaru-theme:xfwm - Build Yaru with xfwm4 assets
