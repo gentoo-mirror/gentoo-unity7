@@ -14,7 +14,7 @@ dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath q
 dev-util/cmake-extras 1.6-r220401 1.7-r240401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401 6.0.0-r240401: Nemo engrampa integration
-gnome-extra/zeitgeist 1.0.3-r210402: Service to log activities and present to other apps
+gnome-extra/zeitgeist 1.0.3-r210402 1.0.4-r240401: Service to log activities and present to other apps
 media-fonts/fonts-noto-cjk 20230817-r231003: 'No Tofu' CJK font families with large Unicode coverage
 media-fonts/fonts-ubuntu 0.869-r231001: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
@@ -43,7 +43,7 @@ unity-base/unity-language-pack 0-r231003: Language translations pack for Unity7 
 unity-base/unity-meta 0-r230401: Unity Desktop - merge this to pull in all Unity packages
 unity-base/unity-settings 0-r230401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
-unity-extra/diodon 1.13.0-r221002: GTK+ Clipboard manager
+unity-extra/diodon 1.13.0-r221003: GTK+ Clipboard manager
 unity-extra/ehooks 0-r230402: ehooks patching system
 unity-extra/indicator-cpufreq 0.2.2-r231001: CPU frequency scaling indicator for the Unity7 user interface
 unity-extra/indicator-multiload 0.4-r171001: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
