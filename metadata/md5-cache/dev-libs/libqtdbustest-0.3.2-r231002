@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gettext virtual/pkgconfig app-alternatives/ninja >=dev-util/cmake-3.20.5
+BDEPEND=sys-devel/gettext virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst prepare setup test
 DEPEND=>=dev-qt/qtcore-5.15.1:5 >=dev-qt/qtdbus-5.0.2:5 >=dev-qt/qttest-5.0.2:5 >=dev-util/cmake-extras-1.5 sys-apps/dbus test? ( dev-cpp/gtest coverage? ( dev-util/gcovr dev-util/lcov ) python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_10? ( dev-python/python-dbusmock[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/python-dbusmock[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/python-dbusmock[python_targets_python3_12(-)] ) )
 DESCRIPTION=Library to facilitate testing DBus interactions in Qt applications
@@ -13,5 +13,5 @@ REQUIRED_USE=coverage? ( test ) test? ( ^^ ( python_single_target_python3_10 pyt
 RESTRICT=!test? ( test ) mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/libqtdbustest_0.3.2.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/libqtdbustest_0.3.2-2.debian.tar.xz
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	78cf3cc2d5572fddf5e5e10c70f7c81a	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	b7ccad6f1800c4ea58dbbdafb0b1b5e0	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-single-r1	75118e916668a74c660a13b0ecb22562	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	78cf3cc2d5572fddf5e5e10c70f7c81a	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	c7c9a62d6232cac66d4ea32d575c3e7c	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-single-r1	75118e916668a74c660a13b0ecb22562	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
 _md5_=f98babd472e4a85342f4d5b3836cd083
