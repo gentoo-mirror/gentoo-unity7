@@ -1,4 +1,4 @@
-BDEPEND=dev-util/intltool sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) || ( >=sys-devel/autoconf-2.72-r1:2.72 >=sys-devel/autoconf-2.71-r6:2.71 ) >=sys-devel/libtool-2.4.7
+BDEPEND=dev-util/intltool sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7
 DEFINED_PHASES=install postinst prepare setup
 DEPEND=>=dev-libs/dbus-glib-0.88 >=dev-libs/glib-2.37.3:2 >=dev-libs/libappindicator-0.2.92:3 >=dev-libs/libdbusmenu-0.5.90:=[gtk3] >=dev-libs/libindicator-0.4.90:3 >=x11-libs/gtk+-3.0.0:3 dev-libs/json-glib gnome-base/gnome-common sys-apps/systemd
 DESCRIPTION=Application indicators used by the Unity7 user interface
@@ -11,5 +11,5 @@ RDEPEND=>=dev-libs/dbus-glib-0.88 >=dev-libs/glib-2.37.3:2 >=dev-libs/libappindi
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/indicator-application_12.10.1+19.04.20190308.1.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/indicator-application_12.10.1+19.04.20190308.1-0ubuntu3.diff.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	5f729b9cb10d5eda573cd604c93c6dc5	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	e4cf390b19033d5ca443765bc8537b81	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
 _md5_=2c65e7bf8a2839dc0fa750e07694e737
