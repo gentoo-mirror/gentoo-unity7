@@ -44,7 +44,7 @@ unity-base/unity-meta 0-r230401: Unity Desktop - merge this to pull in all Unity
 unity-base/unity-settings 0-r230401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
 unity-extra/diodon 1.13.0-r221003: GTK+ Clipboard manager
-unity-extra/ehooks 0-r230402: ehooks patching system
+unity-extra/ehooks 0-r230403: ehooks patching system
 unity-extra/indicator-cpufreq 0.2.2-r231001: CPU frequency scaling indicator for the Unity7 user interface
 unity-extra/indicator-multiload 0.4-r171001: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
 unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
