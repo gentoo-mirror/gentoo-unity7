@@ -3,7 +3,7 @@ DESCRIPTION=Default settings for the Unity
 EAPI=8
 HOMEPAGE=https://launchpad.net/ubuntu/+source/ubuntu-settings
 INHERIT=gnome2-utils ubuntu-versionator
-IUSE=+files lowgfx +music +photos +ubuntu-cursor +ubuntu-sounds +video ubuntu-unity
+IUSE=dejavu +files lowgfx +music +photos +ubuntu-cursor +ubuntu-sounds +video ubuntu-unity
 KEYWORDS=amd64
 LICENSE=GPL-2+
 PDEPEND=unity-lenses/unity-lens-meta[files=,music=,photos=,video=]
@@ -11,4 +11,4 @@ RDEPEND=|| ( media-fonts/fonts-ubuntu media-fonts/ubuntu-font-family ) x11-theme
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=6d87713ddf36096990908b0186d4c7f5
+_md5_=fa3c0b650b45dca3b5c8c781c1320420
