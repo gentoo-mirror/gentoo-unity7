@@ -1,6 +1,6 @@
 BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
 DEFINED_PHASES=install postinst postrm prepare setup
-DESCRIPTION='No Tofu' CJK font families with large Unicode coverage
+DESCRIPTION='No Tofu' CJK font families with large Unicode coverage (CJK regular and bold)
 EAPI=8
 HOMEPAGE=https://github.com/notofonts/noto-cjk
 INHERIT=font ubuntu-versionator
@@ -12,4 +12,4 @@ RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/fonts-noto-cjk_20230817+repack1.orig.tar.xz https://launchpad.net/ubuntu/+archive/primary/+files/fonts-noto-cjk_20230817+repack1-3.debian.tar.xz https://launchpad.net/ubuntu/+archive/primary/+files/language-selector_0.224.tar.xz
 _eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=54b562d253be2afec9ea3189ea72c9dc
+_md5_=8a6474f11f8df4977882bdee9e9b2350

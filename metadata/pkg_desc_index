@@ -15,7 +15,7 @@ dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath q
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401 6.0.0-r240401: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.3-r210402 1.0.4-r240401: Service to log activities and present to other apps
-media-fonts/fonts-noto-cjk 20230817-r231003: 'No Tofu' CJK font families with large Unicode coverage
+media-fonts/fonts-noto-cjk 20230817-r231003: 'No Tofu' CJK font families with large Unicode coverage (CJK regular and bold)
 media-fonts/fonts-ubuntu 0.869-r231001: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.0-r230401 0.3.0-r240401: Parse and query the geonames database dump
@@ -26,7 +26,7 @@ unity-base/bamf 0.5.6-r220402: BAMF Application Matching Framework
 unity-base/compiz 0.9.14.2-r231001: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
 unity-base/frame 2.5.0-r210401: Touch Frame Library
 unity-base/geis 2.2.17-r230401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
-unity-base/gentoo-unity-env 7-r231001: Setup the Unity7 build environment and ehooks patching system
+unity-base/gentoo-unity-env 7-r231002: Setup the Unity7 build environment and ehooks patching system
 unity-base/grail 3.1.1-r210401 3.1.1-r240401: An implementation of the GRAIL (Gesture Recognition And Instantiation Library) interface
 unity-base/gsettings-ubuntu-touch-schemas 0.0.7-r220401: GSettings desktop-wide schemas for the Unity7 user interface
 unity-base/hud 14.10-r210402: Backend for the Unity HUD
@@ -40,7 +40,7 @@ unity-base/unity-api 8.7-r210403: API for Unity shell integration
 unity-base/unity-control-center 15.04.0-r230401: Unity Desktop Configuration Tool
 unity-base/unity-gtk-module 0.0.0-r220401: GTK+ module for exporting old-style menus as GMenuModels
 unity-base/unity-language-pack 7-r231003 7-r240401: Language translations pack for Unity7 user interface
-unity-base/unity-meta 7-r231001: Unity Desktop - merge this to pull in all Unity packages
+unity-base/unity-meta 7-r231002: Unity Desktop - merge this to pull in all Unity packages
 unity-base/unity-settings 7-r230401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
 unity-extra/diodon 1.13.0-r221003: GTK+ Clipboard manager
