@@ -1,14 +1,13 @@
 DEFINED_PHASES=install postinst prepare setup
-DEPEND=unity-base/unity-build-env
-DESCRIPTION=ehooks patching system
+DESCRIPTION=Setup the Unity7 build environment and ehooks patching system
 EAPI=8
 HOMEPAGE=https://github.com/c4pp4/gentoo-unity7
 INHERIT=ubuntu-versionator
-IUSE=+fontconfig +libreoffice
+IUSE=dev +fontconfig +libreoffice
 KEYWORDS=amd64
 LICENSE=GPL-2+
 RDEPEND=fontconfig? ( media-libs/freetype:2[adobe-cff,cleartype-hinting] )
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=409a93fcd11a716342284b7e3d6b4323
+_md5_=5a16012c3990be7569de8b8e06de3486

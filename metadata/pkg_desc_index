@@ -1,5 +1,6 @@
 app-accessibility/onboard 1.4.1-r230401 1.4.1-r240401: Simple on-screen Keyboard with macros and easy layout creation
 app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being used
+dev-build/cmake-extras 1.6-r220401 1.7-r240401: Extra CMake utility modules
 dev-java/jayatana 0.7.6: Global menu for Java applications
 dev-libs/dee 1.2.7-r230401 1.2.7-r240401: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/libcolumbus 1.1.0-r230401 1.1.0-r240401: Error tolerant matching engine used by the Unity7 user interface
@@ -11,7 +12,6 @@ dev-libs/libunity-misc 4.0.5-r191002: Miscellaneous modules for the Unity7 user 
 dev-libs/libzeitgeist 0.3.18-r160401: Client library to interact with zeitgeist
 dev-libs/properties-cpp 0.0.3-r231001: Simple convenience library for handling properties and signals in C++11
 dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath queries
-dev-util/cmake-extras 1.6-r220401 1.7-r240401: Extra CMake utility modules
 gnome-extra/activity-log-manager 0.9.7-r220401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 5.6.1-r230401 6.0.0-r240401: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.3-r210402 1.0.4-r240401: Service to log activities and present to other apps
@@ -26,6 +26,7 @@ unity-base/bamf 0.5.6-r220402: BAMF Application Matching Framework
 unity-base/compiz 0.9.14.2-r231001: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
 unity-base/frame 2.5.0-r210401: Touch Frame Library
 unity-base/geis 2.2.17-r230401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
+unity-base/gentoo-unity-env 7-r231001: Setup the Unity7 build environment and ehooks patching system
 unity-base/grail 3.1.1-r210401 3.1.1-r240401: An implementation of the GRAIL (Gesture Recognition And Instantiation Library) interface
 unity-base/gsettings-ubuntu-touch-schemas 0.0.7-r220401: GSettings desktop-wide schemas for the Unity7 user interface
 unity-base/hud 14.10-r210402: Backend for the Unity HUD
@@ -36,15 +37,13 @@ unity-base/session-shortcuts 1.4-r181001: Allows shutdown, logout, and reboot fr
 unity-base/ubuntu-docs 16.04.4-r160404: Help files for the Unity7 user interface
 unity-base/unity 7.7.0-r231001: The Ubuntu Unity Desktop
 unity-base/unity-api 8.7-r210403: API for Unity shell integration
-unity-base/unity-build-env 0-r211001: Merge this to setup the Unity7 build environment package.{accept_keywords,env,mask,unmask,use} files
 unity-base/unity-control-center 15.04.0-r230401: Unity Desktop Configuration Tool
 unity-base/unity-gtk-module 0.0.0-r220401: GTK+ module for exporting old-style menus as GMenuModels
-unity-base/unity-language-pack 0-r231003 0-r240401: Language translations pack for Unity7 user interface
-unity-base/unity-meta 0-r230401: Unity Desktop - merge this to pull in all Unity packages
-unity-base/unity-settings 0-r230401: Default settings for the Unity
+unity-base/unity-language-pack 7-r231003 7-r240401: Language translations pack for Unity7 user interface
+unity-base/unity-meta 7-r231001: Unity Desktop - merge this to pull in all Unity packages
+unity-base/unity-settings 7-r230401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
 unity-extra/diodon 1.13.0-r221003: GTK+ Clipboard manager
-unity-extra/ehooks 0-r230403: ehooks patching system
 unity-extra/indicator-cpufreq 0.2.2-r231001: CPU frequency scaling indicator for the Unity7 user interface
 unity-extra/indicator-multiload 0.4-r171001: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
 unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
@@ -66,14 +65,14 @@ unity-indicators/indicator-printers 0.1.7-r210401: Indicator showing active prin
 unity-indicators/indicator-session 17.3.20-r211001: Indicator showing session management, status and user switching used by the Unity7 user interface
 unity-indicators/indicator-sound 12.10.2-r231001: System sound indicator used by the Unity7 user interface
 unity-indicators/unity-indicator-appearance 1.2-r221001: Default settings for Ubuntu Unity
-unity-indicators/unity-indicators-meta 0-r221001: Unity Desktop - merge this to pull in all Unity indicators
+unity-indicators/unity-indicators-meta 7-r221001: Unity Desktop - merge this to pull in all Unity indicators
 unity-lenses/unity-lens-applications 7.1.0-r200402: Application lens for the Unity7 user interface
 unity-lenses/unity-lens-files 7.1.0-r180402: File lens for the Unity7 user interface
-unity-lenses/unity-lens-meta 0-r211001: Unity Desktop - merge this to pull in all Unity lenses
+unity-lenses/unity-lens-meta 7-r211001: Unity Desktop - merge this to pull in all Unity lenses
 unity-lenses/unity-lens-music 6.9.1-r180402: Music lens for the Unity7 user interface
 unity-lenses/unity-lens-photos 1.0-r210403: Photo lens for the Unity7 user interface
 unity-lenses/unity-lens-video 0.3.15-r180402: Video lens for the Unity7 user interface
-unity-scopes/smart-scopes 0-r211003: Online scopes for the Unity Dash
+unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r200403: Home scope that aggregates results from multiple scopes for the Unity7 user interface
 x11-libs/dee-qt 3.3-r200401: Qt binding and QML plugin for Dee for the Unity7 user interface
 x11-libs/gsettings-qt 0.2-r230401: Qml bindings for GSettings.
