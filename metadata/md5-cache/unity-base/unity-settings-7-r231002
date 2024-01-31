@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst prepare setup
+DESCRIPTION=Default settings for the Unity
+EAPI=8
+HOMEPAGE=https://launchpad.net/ubuntu/+source/ubuntu-settings
+INHERIT=gnome2-utils ubuntu-versionator
+IUSE=dejavu +files +fontconfig lowgfx +music +photos +ubuntu-cursor +ubuntu-sounds +video ubuntu-unity
+KEYWORDS=amd64
+LICENSE=GPL-2+
+PDEPEND=unity-base/gentoo-unity-env[fontconfig=] unity-lenses/unity-lens-meta[files=,music=,photos=,video=]
+RDEPEND=|| ( media-fonts/fonts-ubuntu media-fonts/ubuntu-font-family ) x11-themes/ubuntu-themes x11-themes/ubuntu-wallpapers fontconfig? ( media-libs/freetype:2[adobe-cff,cleartype-hinting] ) ubuntu-cursor? ( x11-themes/vanilla-dmz-xcursors ) ubuntu-sounds? ( x11-themes/ubuntu-sounds ) ubuntu-unity? ( x11-themes/ubuntu-unity-backgrounds )
+REQUIRED_USE=dejavu? ( fontconfig )
+RESTRICT=binchecks strip test mirror
+SLOT=0
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	b0183db3b2e07b18f3b77bffec72e116	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
+_md5_=392d61999504b98b7d3e06b889b39cfe

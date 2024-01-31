@@ -44,6 +44,7 @@ unity-base/unity-meta:gnome - Install Gnome extra applications depending on gui-
 unity-base/unity-meta:xdm - Use a display manager, defaults to x11-misc/lightdm and unity-extra/unity-greeter
 unity-base/unity-settings:dejavu - Prefer Dejavu font over Noto (legacy fontconfig)
 unity-base/unity-settings:files - Enable Files lens in Dash
+unity-base/unity-settings:fontconfig - Add Ubuntu's fontconfig
 unity-base/unity-settings:lowgfx - Enable Low Graphics Mode
 unity-base/unity-settings:music - Enable Music lens in Dash
 unity-base/unity-settings:photos - Enable Photos lens in Dash
