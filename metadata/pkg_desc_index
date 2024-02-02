@@ -18,7 +18,7 @@ gnome-extra/zeitgeist 1.0.3-r210402 1.0.4-r240401: Service to log activities and
 media-fonts/fonts-noto-cjk 20230817-r231004: 'No Tofu' CJK font families with large Unicode coverage (CJK regular and bold)
 media-fonts/fonts-ubuntu 0.869-r231001: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r220401: OpenGL Extension Wrangler MX
-net-libs/geonames 0.3.0-r230401 0.3.0-r240401: Parse and query the geonames database dump
+net-libs/geonames 0.3.0-r230401 0.3.1-r240401: Parse and query the geonames database dump
 net-mail/mailnag 2.2.0-r220402: An extensible mail notification daemon
 net-misc/vino 3.22.0-r220401: An integrated VNC server for GNOME
 sys-power/cpufrequtils 008-r220401: Userspace utilities for the Linux kernel cpufreq subsystem
