@@ -82,7 +82,7 @@ x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates M
 x11-themes/humanity-icon-theme 0.6.16-r220401: A nice and well polished icon theme
 x11-themes/notify-osd-icons 0.8-r210401: Icons for on-screen-display notification agent
 x11-themes/ubuntu-sounds 0.14-r190401: Default audio theme for the Unity
-x11-themes/ubuntu-themes 20.10-r230401: Monochrome icons for the Unity7 user interface (default icon theme)
+x11-themes/ubuntu-themes 20.10-r230401 24.04-r240401: Monochrome icons for the Unity7 user interface (default icon theme)
 x11-themes/ubuntu-touch-sounds 15.08-r220401 15.08-r240401: Default audio theme for the Unity
 x11-themes/ubuntu-unity-backgrounds 23.10-r231001: Default backgrounds in Ubuntu Unity
 x11-themes/ubuntu-wallpapers 23.10.4-r231001: Ubuntu wallpapers
