@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7-r3
 DEFINED_PHASES=configure install postinst prepare setup
 DEPEND=>=dev-libs/glib-2.43.2:2 >=dev-libs/libdbusmenu-0.4.2[gtk3] >=gnome-base/libgtop-2.22.3:2 >=x11-libs/libwnck-3.4.7:3 >=x11-libs/gtk+-3.9.10:3[introspection] gnome-base/gnome-common >=sys-apps/dbus-1.8 x11-themes/hicolor-icon-theme doc? ( dev-util/gtk-doc ) || ( dev-lang/vala:0.56 )
 DESCRIPTION=BAMF Application Matching Framework
@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.43.2:2 >=dev-libs/libdbusmenu-0.4.2[gtk3] >=gnome-base
 RESTRICT=test mirror
 SLOT=0/22.04.20220217-0ubuntu1
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217-0ubuntu1.diff.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	e4cf390b19033d5ca443765bc8537b81	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	vala	e477903dbe0105930c51f170a592dc16
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	3af8f60c4bdb23e738db506a630898ee	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	vala	e477903dbe0105930c51f170a592dc16
 _md5_=5967025606e6d870f9615c5cd9cfc58f
