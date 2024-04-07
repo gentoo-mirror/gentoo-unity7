@@ -72,6 +72,7 @@ unity-lenses/unity-lens-meta 7-r211001: Unity Desktop - merge this to pull in al
 unity-lenses/unity-lens-music 6.9.1-r180402: Music lens for the Unity7 user interface
 unity-lenses/unity-lens-photos 1.0-r210403: Photo lens for the Unity7 user interface
 unity-lenses/unity-lens-video 0.3.15-r180402: Video lens for the Unity7 user interface
+unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r200403: Home scope that aggregates results from multiple scopes for the Unity7 user interface
 x11-libs/dee-qt 3.3-r200401: Qt binding and QML plugin for Dee for the Unity7 user interface
 x11-libs/gsettings-qt 0.2-r230401: Qml bindings for GSettings.
