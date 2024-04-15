@@ -11,7 +11,7 @@ LICENSE=GPL-3 LGPL-2.1 LGPL-3
 PDEPEND=unity-base/unity[gles2=]
 RDEPEND=>=app-i18n/ibus-1.5.1 dev-libs/boost:= >=dev-libs/glib-2.31.8:2 dev-libs/libpcre:3 >=dev-libs/libsigc++-2.8.0:2 media-libs/libpng:0= >=sys-apps/pciutils-3.5.1 >=unity-base/geis-2.2.10 virtual/glu >=x11-libs/cairo-1.9.14 >=x11-libs/gdk-pixbuf-2.22.0:2 x11-libs/libX11 >=x11-libs/libXcomposite-0.4.5 >=x11-libs/libXdamage-1.1 x11-libs/libXinerama x11-libs/libXxf86vm >=x11-libs/pango-1.20.0 !gles2? ( >=media-libs/glew-2.0.0:0= >=media-libs/glewmx-1.12.0:0= ) media-libs/libglvnd >=sys-devel/gcc-5.2 >=sys-libs/glibc-2.29 x11-libs/libXext x11-libs/libXfixes
 RESTRICT=test mirror
-SLOT=0/18.10.20180623-0ubuntu7
-SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623-0ubuntu7.diff.gz
+SLOT=0/18.10.20180623-0ubuntu10
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623-0ubuntu10.diff.gz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=1c73e501d334c8b241ef15e109461edb
+_md5_=8379e8859e03c5ace9436a833a4fef2b
