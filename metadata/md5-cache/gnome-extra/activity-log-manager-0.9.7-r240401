@@ -6,11 +6,11 @@ EAPI=8
 HOMEPAGE=https://launchpad.net/activity-log-manager
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=gnome2 vala ubuntu-versionator
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=LGPL-2
 RDEPEND=>=dev-libs/glib-2.43.2:2 >=dev-libs/libgee-0.8.3:0.8 >=gnome-extra/zeitgeist-0.9.9 sys-auth/polkit >=unity-base/unity-control-center-14.04.0 >=x11-libs/gtk+-3.5.12:3 >=sys-libs/glibc-2.4 >=x11-libs/cairo-1.2.4 >=x11-libs/gdk-pixbuf-2.22.0:2 >=x11-libs/pango-1.22.0
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/activity-log-manager_0.9.7.orig.tar.xz https://launchpad.net/ubuntu/+archive/primary/+files/activity-log-manager_0.9.7-0ubuntu31.debian.tar.xz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	fc9e598eaac41c6ac9ed1a44bc004d03	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	vala	e477903dbe0105930c51f170a592dc16	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=2a2973b23f5a9fe3e245838300afd50e
+_md5_=16c9faabf1afaa3ef05e226e580c7dfe

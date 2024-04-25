@@ -6,11 +6,11 @@ EAPI=8
 HOMEPAGE=https://launchpad.net/bamf
 INHERIT=ubuntu-versionator vala
 IUSE=doc
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-3 LGPL-2.1 LGPL-3
 RDEPEND=>=dev-libs/glib-2.43.2:2 >=dev-libs/libdbusmenu-0.4.2[gtk3] >=gnome-base/libgtop-2.22.3:2 >=x11-libs/libwnck-3.4.7:3 >=x11-libs/gtk+-3.9.10:3[introspection] >=sys-libs/glibc-2.14 >=x11-libs/gdk-pixbuf-2.22.0:2 x11-libs/libX11 >=x11-libs/startup-notification-0.11 doc? ( dev-util/devhelp )
 RESTRICT=test mirror
 SLOT=0/22.04.20220217-0ubuntu5
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/bamf_0.5.6+22.04.20220217-0ubuntu5.diff.gz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	vala	e477903dbe0105930c51f170a592dc16
-_md5_=04b4d1e4837d9ba4224c4f5f34fb92b5
+_md5_=88ef6cdc7686c82a361254696cfea88d
