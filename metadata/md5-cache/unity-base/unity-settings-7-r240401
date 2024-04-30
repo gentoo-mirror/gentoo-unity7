@@ -7,9 +7,9 @@ IUSE=+files +fontconfig lowgfx +music +photos ubuntu-classic +ubuntu-cursor +ubu
 KEYWORDS=amd64
 LICENSE=GPL-2+
 PDEPEND=unity-base/gentoo-unity-env[fontconfig=] unity-lenses/unity-lens-meta[files=,music=,photos=,video=]
-RDEPEND=x11-themes/ubuntu-themes x11-themes/ubuntu-wallpapers !ubuntu-classic? ( media-fonts/fonts-ubuntu ) ubuntu-classic? ( media-fonts/ubuntu-font-family ) fontconfig? ( media-libs/freetype:2[adobe-cff,cleartype-hinting] ) ubuntu-cursor? ( x11-themes/vanilla-dmz-xcursors ) ubuntu-sounds? ( x11-themes/ubuntu-sounds ) ubuntu-unity? ( x11-themes/ubuntu-unity-backgrounds )
+RDEPEND=x11-themes/ubuntu-themes x11-themes/ubuntu-wallpapers !ubuntu-classic? ( || ( media-fonts/fonts-ubuntu media-fonts/ubuntu-font-family ) ) ubuntu-classic? ( media-fonts/ubuntu-font-family ) fontconfig? ( media-libs/freetype:2[adobe-cff,cleartype-hinting] ) ubuntu-cursor? ( x11-themes/vanilla-dmz-xcursors ) ubuntu-sounds? ( x11-themes/ubuntu-sounds ) ubuntu-unity? ( x11-themes/ubuntu-unity-backgrounds )
 REQUIRED_USE=ubuntu-classic? ( fontconfig )
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=574b276aeea41435c2d13f250467c8d8
+_md5_=81e654055dfced19bd19bae345409266

@@ -47,7 +47,7 @@ unity-base/unity-settings:fontconfig - Add Ubuntu's fontconfig
 unity-base/unity-settings:lowgfx - Enable Low Graphics Mode
 unity-base/unity-settings:music - Enable Music lens in Dash
 unity-base/unity-settings:photos - Enable Photos lens in Dash
-unity-base/unity-settings:ubuntu-classic - Prefer classic Ubuntu fonts (legacy)
+unity-base/unity-settings:ubuntu-classic - Prefer Ubuntu classic and DejaVu fonts (legacy)
 unity-base/unity-settings:ubuntu-cursor - Enable DMZ-White - Ubuntu's default cursor theme
 unity-base/unity-settings:ubuntu-sounds - Enable Ubuntu's default audio theme
 unity-base/unity-settings:ubuntu-unity - Set Ubuntu Unity theme as the default one
