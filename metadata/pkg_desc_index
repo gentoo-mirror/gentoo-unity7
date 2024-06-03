@@ -49,7 +49,7 @@ unity-extra/indicator-cpufreq 0.2.2-r231001: CPU frequency scaling indicator for
 unity-extra/indicator-multiload 0.4-r240401: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
 unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
 unity-extra/indicator-privacy 0.7: Indicator to change user privacy settings
-unity-extra/indicator-psensor 1.1.5-r240401 1.2.1-r241001: Indicator for monitoring hardware temperature used by the Unity7 user interface
+unity-extra/indicator-psensor 1.1.5-r240401 1.2.1-r241002: Indicator for monitoring hardware temperature used by the Unity7 user interface
 unity-extra/meteo-qt 3.3-r240402: System tray application for weather status information
 unity-extra/unity-greeter 23.10.1-r240401: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
 unity-extra/unity-tweak-tool 0.0.7-r230401: Configuration manager for the Unity7 user interface
