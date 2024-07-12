@@ -1,4 +1,4 @@
-BDEPEND=>=app-portage/elt-patches-20240116 sys-devel/gnuconfig || ( >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7-r3 app-arch/xz-utils
+BDEPEND=>=app-portage/elt-patches-20240116 sys-devel/gnuconfig || ( >=dev-build/automake-1.17:1.17 >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 >=dev-build/autoconf-2.71-r6:2.71 ) >=dev-build/libtool-2.4.7-r3 app-arch/xz-utils
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup
 DEPEND=>=dev-libs/glib-2.37.3:2 >=x11-libs/cairo-1.10.0 >=x11-libs/gtk+-2.24.26:2
 DESCRIPTION=Ayatana Scrollbars use an overlay to ensure scrollbars take up no active screen real-estate
@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.37.3:2 >=x11-libs/cairo-1.10.0 >=x11-libs/gtk+-2.24.26
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/overlay-scrollbar_0.2.17.1+16.04.20151117.orig.tar.gz
-_eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	dc70c1dc473b68317fc4a86f5fbfc57d	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	fc9e598eaac41c6ac9ed1a44bc004d03	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
+_eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	fb7c3cd829c27448f5a05212de2bf499	gnome.org	6b39404f1491c60a2d32e3c693a683fe	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	30dbce54b89e77b86f366548f94419ad	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	fc9e598eaac41c6ac9ed1a44bc004d03	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
 _md5_=de3c530e7f79dfff4d2731f460e09e12
