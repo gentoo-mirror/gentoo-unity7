@@ -73,7 +73,7 @@ unity-lenses/unity-lens-applications 7.1.0-r240401: Application lens for the Uni
 unity-lenses/unity-lens-files 7.1.0-r240401: File lens for the Unity7 user interface
 unity-lenses/unity-lens-meta 7-r211001: Unity Desktop - merge this to pull in all Unity lenses
 unity-lenses/unity-lens-music 6.9.1-r240401: Music lens for the Unity7 user interface
-unity-lenses/unity-lens-photos 1.0-r210403: Photo lens for the Unity7 user interface
+unity-lenses/unity-lens-photos 1.0-r210404: Photo lens for the Unity7 user interface
 unity-lenses/unity-lens-video 0.3.15-r240401: Video lens for the Unity7 user interface
 unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r240401: Home scope that aggregates results from multiple scopes for the Unity7 user interface
