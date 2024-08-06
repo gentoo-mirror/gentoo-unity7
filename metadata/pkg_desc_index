@@ -3,6 +3,7 @@ app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being use
 dev-build/cmake-extras 1.7-r240402 1.7-r241001: Extra CMake utility modules
 dev-java/jayatana 24.05: Global menu for Java applications
 dev-libs/dee 1.2.7-r240402: Provide objects allowing to create Model-View-Controller type programs across DBus
+dev-libs/libappindicator 12.10.1-r2240401 12.10.1-r3240401: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libcolumbus 1.1.0-r240403: Error tolerant matching engine used by the Unity7 user interface
 dev-libs/libindicator 16.10.0-r2240401 16.10.0-r3240401: A set of symbols and convenience functions that all indicators would like to use
 dev-libs/libqtdbusmock 0.9.1-r240402 0.9.1-r241001: Qt Bindings for python-dbusmock
