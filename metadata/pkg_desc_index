@@ -17,7 +17,7 @@ dev-python/python-zombie-imp 0.0.2-r240401: Copy of the 'imp' module that was re
 gnome-extra/activity-log-manager 0.9.7-r240401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 6.0.0-r240402 6.2.0-r241001: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.4-r240404: Service to log activities and present to other apps
-media-fonts/fonts-noto-cjk 20230817-r231004: 'No Tofu' CJK font families with large Unicode coverage (CJK regular and bold)
+media-fonts/fonts-noto-cjk 20230817-r231004 20240730-r241001: 'No Tofu' CJK font families with large Unicode coverage (CJK regular and bold)
 media-fonts/fonts-ubuntu 0.869-r240401: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r240401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.1-r240402: Parse and query the geonames database dump
