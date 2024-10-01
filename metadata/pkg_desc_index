@@ -81,7 +81,7 @@ unity-scopes/unity-scope-home 6.8.2-r240401: Home scope that aggregates results 
 x11-libs/dee-qt 3.3-r240401: Qt binding and QML plugin for Dee for the Unity7 user interface
 x11-libs/gsettings-qt 0.2-r240401: Qml bindings for GSettings.
 x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
-x11-misc/notify-osd 0.9.35-r240401 0.9.35-r241002: Canonical's on-screen-display notification agent
+x11-misc/notify-osd 0.9.35-r240401 0.9.35-r241003: Canonical's on-screen-display notification agent
 x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
 x11-themes/humanity-icon-theme 0.6.16-r220401: A nice and well polished icon theme
 x11-themes/notify-osd-icons 0.8-r210401: Icons for on-screen-display notification agent
