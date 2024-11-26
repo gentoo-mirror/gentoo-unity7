@@ -29,7 +29,7 @@ unity-base/bamf 0.5.6-r240401: BAMF Application Matching Framework
 unity-base/compiz 0.9.14.2-r240402: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
 unity-base/frame 2.5.0-r240401: Touch Frame Library
 unity-base/geis 2.2.17-r240401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
-unity-base/gentoo-unity-env 7-r240404: Setup the Unity7 build environment and ehooks patching system
+unity-base/gentoo-unity-env 7-r240405: Setup the Unity7 build environment and ehooks patching system
 unity-base/grail 3.1.1-r240402: An implementation of the GRAIL (Gesture Recognition And Instantiation Library) interface
 unity-base/gsettings-ubuntu-touch-schemas 0.0.7-r240401: GSettings desktop-wide schemas for the Unity7 user interface
 unity-base/hud 14.10-r240401: Backend for the Unity HUD
@@ -48,14 +48,14 @@ unity-base/unity-settings 7-r240401: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
 unity-extra/diodon 1.13.0-r240401: GTK+ Clipboard manager
 unity-extra/indicator-classicmenu 0.11-r240401: Indicator showing the main menu from GNOME Classic
-unity-extra/indicator-cpufreq 0.2.2-r231001: CPU frequency scaling indicator for the Unity7 user interface
+unity-extra/indicator-cpufreq 0.2.2-r231002: CPU frequency scaling indicator for the Unity7 user interface
 unity-extra/indicator-multiload 0.4-r240401: Graphical system load indicator for CPU, ram, etc. used by the Unity7 user interface
 unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
-unity-extra/indicator-privacy 0.7: Indicator to change user privacy settings
+unity-extra/indicator-privacy 0.7-r1: Indicator to change user privacy settings
 unity-extra/indicator-psensor 1.2.1-r241002: Indicator for monitoring hardware temperature used by the Unity7 user interface
 unity-extra/meteo-qt 3.3-r240402 3.4-r250401: System tray application for weather status information
 unity-extra/unity-greeter 24.10.1-r241001 25.04.1-r250401: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
-unity-extra/unity-tweak-tool 0.0.7-r230401: Configuration manager for the Unity7 user interface
+unity-extra/unity-tweak-tool 0.0.7-r230402: Configuration manager for the Unity7 user interface
 unity-indicators/ido 13.10.0-r240401: Widgets and other objects used for indicators by the Unity7 user interface
 unity-indicators/indicator-application 12.10.1-r240401: Application indicators used by the Unity7 user interface
 unity-indicators/indicator-appmenu 15.02.0-r240401: Indicator for application menus used by the Unity7 user interface
