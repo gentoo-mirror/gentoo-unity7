@@ -11,5 +11,5 @@ RDEPEND=>=dev-libs/glib-2.51.1:2 >=sys-libs/glibc-2.4
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/session-migration_0.3.9build1.tar.xz
-_eclasses_=toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	systemd	54bd206bb5c4efac6ae28b6b006713b0	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	systemd	54bd206bb5c4efac6ae28b6b006713b0	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
 _md5_=5967eae5a489d309d4a814ef7d1f501d
