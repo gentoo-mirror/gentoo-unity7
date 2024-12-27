@@ -83,6 +83,7 @@ x11-libs/gsettings-qt 0.2-r240401 0.2-r250401: Qml bindings for GSettings.
 x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
 x11-misc/notify-osd 0.9.35-r241003: Canonical's on-screen-display notification agent
 x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
+x11-themes/adwaita-icon-theme 41.0-r220401: GNOME default icon theme
 x11-themes/humanity-icon-theme 0.6.16-r220401: A nice and well polished icon theme
 x11-themes/notify-osd-icons 0.8-r210401: Icons for on-screen-display notification agent
 x11-themes/ubuntu-sounds 0.14-r190401: Default audio theme for the Unity
