@@ -11,5 +11,5 @@ RDEPEND=!media-fonts/ubuntu-font-family
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/fonts-ubuntu_0.869+git20240321.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/fonts-ubuntu_0.869+git20240321-0ubuntu1.debian.tar.xz
-_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	d4c58d14ff4697a2cc4c42d0c786c15f
-_md5_=fe9a97c525641f5c6c8d473d0adcfa80
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_md5_=95e941ac2f194701e562097eb3e4f0e8
