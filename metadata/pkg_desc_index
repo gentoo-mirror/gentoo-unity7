@@ -7,7 +7,7 @@ dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow a
 dev-libs/libcolumbus 1.1.0-r240403: Error tolerant matching engine used by the Unity7 user interface
 dev-libs/libindicator 16.10.0-r2240401 16.10.0-r3240401: A set of symbols and convenience functions that all indicators would like to use
 dev-libs/libqtdbusmock 0.9.1-r241001 0.9.1-r250401: Qt Bindings for python-dbusmock
-dev-libs/libqtdbustest 0.3.2-r240402: Library to facilitate testing DBus interactions in Qt applications
+dev-libs/libqtdbustest 0.3.2-r240402 0.3.3-r250401: Library to facilitate testing DBus interactions in Qt applications
 dev-libs/libunity 7.1.4-r241001: Library for instrumenting and integrating with all aspects of the Unity shell
 dev-libs/libunity-misc 4.0.5-r240401: Miscellaneous modules for the Unity7 user interface
 dev-libs/libzeitgeist 0.3.18-r240401: Client library to interact with zeitgeist
