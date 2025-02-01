@@ -66,7 +66,7 @@ unity-indicators/indicator-messages 13.10.1-r240401: Indicator that collects mes
 unity-indicators/indicator-notifications 0.4.2-r240401: View recent notifications
 unity-indicators/indicator-power 12.10.6-r240401: Indicator showing power state used by the Unity7 user interface
 unity-indicators/indicator-printers 0.1.7-r240401: Indicator showing active print jobs used by the Unity7 user interface
-unity-indicators/indicator-session 17.3.20-r240401: Indicator showing session management, status and user switching used by the Unity7 user interface
+unity-indicators/indicator-session 17.3.20-r240401 17.3.20-r250401: Indicator showing session management, status and user switching used by the Unity7 user interface
 unity-indicators/indicator-sound 12.10.2-r240401: System sound indicator used by the Unity7 user interface
 unity-indicators/unity-indicator-appearance 1.2-r221001: Default settings for Ubuntu Unity
 unity-indicators/unity-indicators-meta 7-r221001: Unity Desktop - merge this to pull in all Unity indicators
