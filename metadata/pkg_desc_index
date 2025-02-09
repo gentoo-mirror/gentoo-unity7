@@ -1,6 +1,6 @@
 app-accessibility/onboard 1.4.1-r241001 1.4.1-r250401: Simple on-screen Keyboard with macros and easy layout creation
 app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being used
-dev-build/cmake-extras 1.7-r241001: Extra CMake utility modules
+dev-build/cmake-extras 1.7-r241001 1.8-r250401: Extra CMake utility modules
 dev-java/jayatana 24.05: Global menu for Java applications
 dev-libs/dee 1.2.7-r240402 1.2.7-r250401: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow applications to export a menu into the Unity Menu bar
