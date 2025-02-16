@@ -11,5 +11,5 @@ RDEPEND=|| ( media-fonts/fonts-ubuntu media-fonts/ubuntu-font-family ) x11-theme
 REQUIRED_USE=ubuntu-classic? ( fontconfig )
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
 _md5_=4c055363f99e5831650b3c9ab340f58f
