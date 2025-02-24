@@ -1,6 +1,6 @@
 app-accessibility/onboard 1.4.1-r241001 1.4.1-r250401: Simple on-screen Keyboard with macros and easy layout creation
 app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being used
-dev-build/cmake-extras 1.7-r241001 1.8-r250401: Extra CMake utility modules
+dev-build/cmake-extras 1.7-r241001 1.8-r250402: Extra CMake utility modules
 dev-java/jayatana 24.05: Global menu for Java applications
 dev-libs/dee 1.2.7-r240402 1.2.7-r250401: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow applications to export a menu into the Unity Menu bar
@@ -79,7 +79,7 @@ unity-lenses/unity-lens-video 0.3.15-r240401: Video lens for the Unity7 user int
 unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r240401: Home scope that aggregates results from multiple scopes for the Unity7 user interface
 x11-libs/dee-qt 3.3-r240401: Qt binding and QML plugin for Dee for the Unity7 user interface
-x11-libs/gsettings-qt 0.2-r240401 0.2-r250401: Qml bindings for GSettings.
+x11-libs/gsettings-qt 0.2-r240401 1.0.0-r250401: Qml bindings for GSettings.
 x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
 x11-misc/notify-osd 0.9.35-r241003: Canonical's on-screen-display notification agent
 x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
