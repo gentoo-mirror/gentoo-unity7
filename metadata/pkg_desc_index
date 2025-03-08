@@ -79,7 +79,7 @@ unity-lenses/unity-lens-video 0.3.15-r240401: Video lens for the Unity7 user int
 unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r240401: Home scope that aggregates results from multiple scopes for the Unity7 user interface
 x11-libs/dee-qt 3.3-r240401: Qt binding and QML plugin for Dee for the Unity7 user interface
-x11-libs/gsettings-qt 0.2-r240401 1.0.0-r250401: Qml bindings for GSettings.
+x11-libs/gsettings-qt 0.2-r240401 1.0.0-r250402: Qml bindings for GSettings.
 x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
 x11-misc/notify-osd 0.9.35-r241003: Canonical's on-screen-display notification agent
 x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
