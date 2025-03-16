@@ -13,7 +13,7 @@ dev-libs/libunity-misc 4.0.5-r240401: Miscellaneous modules for the Unity7 user 
 dev-libs/libzeitgeist 0.3.18-r240401: Client library to interact with zeitgeist
 dev-libs/properties-cpp 0.0.3-r240401 0.0.3-r250401: Simple convenience library for handling properties and signals in C++11
 dev-libs/xpathselect 1.4-r200401: Select objects in an object tree using XPath queries
-dev-python/python-zombie-imp 0.0.2-r240401: Copy of the 'imp' module that was removed in Python 3.12
+dev-python/python-zombie-imp 0.0.2-r240401 0.0.2-r250401: Copy of the 'imp' module that was removed in Python 3.12
 gnome-extra/activity-log-manager 0.9.7-r240401: Blacklist configuration user interface for Zeitgeist
 gnome-extra/nemo-engrampa 6.2.0-r241001: Nemo engrampa integration
 gnome-extra/zeitgeist 1.0.4-r240406: Service to log activities and present to other apps
@@ -79,7 +79,7 @@ unity-lenses/unity-lens-video 0.3.15-r240401: Video lens for the Unity7 user int
 unity-scopes/smart-scopes 7-r211003: Online scopes for the Unity Dash
 unity-scopes/unity-scope-home 6.8.2-r240401: Home scope that aggregates results from multiple scopes for the Unity7 user interface
 x11-libs/dee-qt 3.3-r240401: Qt binding and QML plugin for Dee for the Unity7 user interface
-x11-libs/gsettings-qt 0.2-r240401 1.0.0-r250402: Qml bindings for GSettings.
+x11-libs/gsettings-qt 0.2-r240401 1.0.0-r250403: Qml bindings for GSettings.
 x11-misc/gtk3-nocsd 3-r180401: Disable Gtk+ 3 client side decorations (CSD)
 x11-misc/notify-osd 0.9.35-r241003: Canonical's on-screen-display notification agent
 x11-plugins/mailnag-messagingmenu-plugin 1.2.0_p200328: Plugin that integrates Mailnag in the MessagingMenu indicator
