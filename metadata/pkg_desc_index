@@ -3,6 +3,7 @@ app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being use
 dev-build/cmake-extras 1.7-r241001 1.8-r250402: Extra CMake utility modules
 dev-java/jayatana 24.05: Global menu for Java applications
 dev-libs/dee 1.2.7-r240402 1.2.7-r250401: Provide objects allowing to create Model-View-Controller type programs across DBus
+dev-libs/ido 13.10.0-r240401: Widgets and other objects used for indicators by the Unity7 user interface
 dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libcolumbus 1.1.0-r240403 1.1.0-r250401: Error tolerant matching engine used by the Unity7 user interface
 dev-libs/libindicator 16.10.0-r2240401 16.10.0-r3240401: A set of symbols and convenience functions that all indicators would like to use
@@ -56,7 +57,6 @@ unity-extra/indicator-psensor 1.2.1-r241002: Indicator for monitoring hardware t
 unity-extra/meteo-qt 3.3-r240402 3.4-r250401: System tray application for weather status information
 unity-extra/unity-greeter 24.10.1-r241002 25.04.1-r250402: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
 unity-extra/unity-tweak-tool 0.0.7-r230403: Configuration manager for the Unity7 user interface
-unity-indicators/ido 13.10.0-r240401: Widgets and other objects used for indicators by the Unity7 user interface
 unity-indicators/indicator-application 12.10.1-r240401: Application indicators used by the Unity7 user interface
 unity-indicators/indicator-appmenu 15.02.0-r240401: Indicator for application menus used by the Unity7 user interface
 unity-indicators/indicator-bluetooth 0.0.6-r240401: System bluetooth indicator used by the Unity7 user interface
