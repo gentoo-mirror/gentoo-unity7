@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.76.0:2 qt6? ( >=dev-qt/qtbase-6.8.0:6 >=dev-qt/qtdecla
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_1.0.0.orig.tar.bz2 https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_1.0.0-4.debian.tar.xz
-_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	16d3941ed2dc39f4819368ae51bc0b72	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	10a50dfaf728b802fcfd37f8d0da9056	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
 _md5_=411c84a0c785fc85547d4bf974a8f95b
