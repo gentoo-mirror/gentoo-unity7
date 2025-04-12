@@ -13,5 +13,5 @@ RDEPEND=>=app-i18n/ibus-1.5.1 dev-libs/boost:= >=dev-libs/glib-2.31.8:2 dev-libs
 RESTRICT=test mirror
 SLOT=0/18.10.20180623-0ubuntu10
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/nux_4.0.8+18.10.20180623-0ubuntu10.diff.gz
-_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	f20ecf7ab0a7c34e83238b3ed4aaf6d6	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	f20ecf7ab0a7c34e83238b3ed4aaf6d6	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
 _md5_=809b5f498618c483e550c91762849c5d
