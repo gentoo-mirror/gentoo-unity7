@@ -6,11 +6,11 @@ EAPI=8
 HOMEPAGE=https://gitlab.com/ubports/development/core/gsettings-qt
 INHERIT=cmake ubuntu-versionator
 IUSE=qt6
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-3
 RDEPEND=>=dev-libs/glib-2.76.0:2 qt6? ( >=dev-qt/qtbase-6.8.0:6 >=dev-qt/qtdeclarative-6.6.0:6 ) !qt6? ( >=dev-qt/qtcore-5.15.1:5 >=dev-qt/qtdeclarative-5.10.0:5 ) >=sys-devel/gcc-5 >=sys-libs/glibc-2.14
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_1.0.0.orig.tar.bz2 https://launchpad.net/ubuntu/+archive/primary/+files/gsettings-qt_1.0.0-4.debian.tar.xz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	c0c9c21d01b8a96d2d736c554daedc57	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
-_md5_=411c84a0c785fc85547d4bf974a8f95b
+_md5_=612f92e277897e43b1d1d62ee23f89cb
