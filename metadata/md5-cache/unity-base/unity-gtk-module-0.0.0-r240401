@@ -12,5 +12,5 @@ RDEPEND=>=x11-libs/gtk+-2.24.0:2 >=x11-libs/gtk+-3.3.16:3 x11-libs/libX11 >=dev-
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-gtk-module_0.0.0+18.04.20171202.orig.tar.gz
-_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	f20ecf7ab0a7c34e83238b3ed4aaf6d6	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	35f9bf6198bb538e28dcdea5fda274f2	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
 _md5_=4234bb7c61b6e9429cd4b6d70fb2f5e2
