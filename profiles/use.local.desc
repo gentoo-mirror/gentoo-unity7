@@ -26,6 +26,7 @@ unity-base/nux:gles2 - Use OpenGL ES 2.0
 unity-base/unity:classic - Revert Dash classic look - horizontal with bottom scope bar
 unity-base/unity:gles2 - Use OpenGL ES 2.0
 unity-base/unity:hud - Enable the backend for Unity's HUD
+unity-base/unity:no-panel-shadow - Don't install panel shadow (Ubuntu Unity theme)
 unity-base/unity:pch - Build using pre-compiled headers (it can lead to unclear build failures!)
 unity-base/unity:systray - Enable system tray support in the notification area for all applications
 unity-base/unity:uwidgets - Plugin system for Unity to display widgets on top of background
