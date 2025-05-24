@@ -1,17 +1,17 @@
 BDEPEND=virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst prepare setup test
-DEPEND=>=dev-libs/icu-67.1:= python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_11? ( dev-libs/boost:=[python,python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-libs/boost:=[python,python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-libs/boost:=[python,python_targets_python3_13(-)] ) dev-cpp/sparsehash coverage? ( dev-util/gcovr dev-util/lcov )
+DEPEND=>=dev-libs/icu-67.1:= python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_11? ( dev-libs/boost:=[python,python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-libs/boost:=[python,python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-libs/boost:=[python,python_targets_python3_13(-)] ) python_single_target_python3_14? ( dev-libs/boost:=[python,python_targets_python3_14(-)] ) dev-cpp/sparsehash coverage? ( dev-util/gcovr dev-util/lcov )
 DESCRIPTION=Error tolerant matching engine used by the Unity7 user interface
 EAPI=8
 HOMEPAGE=https://launchpad.net/libcolumbus
 INHERIT=cmake python-single-r1 ubuntu-versionator
-IUSE=coverage debug pch test python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=coverage debug pch test python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=amd64
 LICENSE=LGPL-3
-RDEPEND=>=dev-libs/icu-67.1:= python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_11? ( dev-libs/boost:=[python,python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-libs/boost:=[python,python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-libs/boost:=[python,python_targets_python3_13(-)] ) >=sys-devel/gcc-5.2 >=sys-libs/glibc-2.14
-REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=>=dev-libs/icu-67.1:= python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_11? ( dev-libs/boost:=[python,python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-libs/boost:=[python,python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-libs/boost:=[python,python_targets_python3_13(-)] ) python_single_target_python3_14? ( dev-libs/boost:=[python,python_targets_python3_14(-)] ) >=sys-devel/gcc-5.2 >=sys-libs/glibc-2.14
+REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 RESTRICT=!test? ( test ) mirror
 SLOT=0/15.10.20150806-0ubuntu35
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/libcolumbus_1.1.0+15.10.20150806.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/libcolumbus_1.1.0+15.10.20150806-0ubuntu35.diff.gz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	b05c1b7b3c9213c155f128f4eadaa49f	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
-_md5_=343ba861ca9148259e59db220c2c745c
+_md5_=62d78ea81ba37cc0bfcd912c52f1045a

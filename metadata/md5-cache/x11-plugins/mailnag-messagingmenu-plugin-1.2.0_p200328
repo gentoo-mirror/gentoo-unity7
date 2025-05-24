@@ -1,19 +1,19 @@
-BDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_11? ( >=dev-python/gpep517-16[python_targets_python3_11(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)] ) python_single_target_python3_12? ( >=dev-python/gpep517-16[python_targets_python3_12(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_12(-)] ) python_single_target_python3_13? ( >=dev-python/gpep517-16[python_targets_python3_13(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_13(-)] )
+BDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_11? ( >=dev-python/gpep517-16[python_targets_python3_11(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)] ) python_single_target_python3_12? ( >=dev-python/gpep517-16[python_targets_python3_12(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_12(-)] ) python_single_target_python3_13? ( >=dev-python/gpep517-16[python_targets_python3_13(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_13(-)] ) python_single_target_python3_14? ( >=dev-python/gpep517-16[python_targets_python3_14(-)] >=dev-python/setuptools-78.1.0[python_targets_python3_14(-)] )
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup test
-DEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 )
+DEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 )
 DESCRIPTION=Plugin that integrates Mailnag in the MessagingMenu indicator
 EAPI=8
 HOMEPAGE=https://github.com/pulb/mailnag-messagingmenu-plugin
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=distutils-r1 xdg
-IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=amd64
 LICENSE=GPL-2
 PDEPEND=>=net-mail/mailnag-2.0.0
-RDEPEND=unity-indicators/indicator-messages python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 )
-REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=unity-indicators/indicator-messages python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 )
+REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 RESTRICT=mirror test
 SLOT=0
 SRC_URI=https://github.com/pulb/mailnag-messagingmenu-plugin/archive/69f8e5f123643d7fdae28b77afec458ed976b086.tar.gz -> mailnag-messagingmenu-plugin-1.2.0_p200328.tar.gz
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	distutils-r1	0e08701ccfa3f73267c62f539b7ab456	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=45f50d8b0176daff2b01b385d3b209bb
+_md5_=2110d9ba3ff063632ca9f24553328fe8
