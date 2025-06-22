@@ -32,7 +32,6 @@ unity-base/unity:systray - Enable system tray support in the notification area f
 unity-base/unity:uwidgets - Plugin system for Unity to display widgets on top of background
 unity-base/unity-api:pch - Build using pre-compiled headers (it can lead to unclear build failures!)
 unity-base/unity-control-center:colord - Support color management using x11-misc/colord
-unity-base/unity-control-center:fcitx - Enable support for enhanced input methods through app-i18n/fcitx
 unity-base/unity-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
 unity-base/unity-control-center:i18n - Enable support for enhanced input methods through app-i18n/ibus
 unity-base/unity-meta:accessibility - Install accessibility packages
@@ -55,7 +54,6 @@ unity-base/unity-settings:ubuntu-sounds - Enable Ubuntu's default audio theme
 unity-base/unity-settings:ubuntu-unity - Set Ubuntu Unity theme as the default one
 unity-base/unity-settings:video - Enable Video lens in Dash
 unity-base/unity-settings-daemon:colord - Support color management using x11-misc/colord
-unity-base/unity-settings-daemon:fcitx - Enable support for enhanced input methods through app-i18n/fcitx
 unity-base/unity-settings-daemon:i18n - Enable support for enhanced input methods through app-i18n/ibus
 unity-base/unity-settings-daemon:rfkill - build support for rfkill
 unity-base/unity-settings-daemon:short-touchpad-timeout - Change the touchpad timeout so that it's effective for fast typists
