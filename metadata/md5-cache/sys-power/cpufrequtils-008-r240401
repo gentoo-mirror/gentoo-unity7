@@ -12,5 +12,5 @@ RDEPEND=>=sys-libs/glibc-2.7
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/cpufrequtils_008.orig.tar.bz2 https://launchpad.net/ubuntu/+archive/primary/+files/cpufrequtils_008-2build2.debian.tar.xz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	systemd	a964c0cbe818b5729da1dbfcee5be861	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
 _md5_=c791c94fb3ba85dd2084d75e04b65bfd
