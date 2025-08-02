@@ -56,13 +56,13 @@ unity-extra/indicator-netspeed 1.05_p180123: Network speed indicator for Unity
 unity-extra/indicator-privacy 0.7-r1: Indicator to change user privacy settings
 unity-extra/indicator-psensor 1.2.1-r241002 1.2.1-r251001: Indicator for monitoring hardware temperature used by the Unity7 user interface
 unity-extra/meteo-qt 3.4-r250401 4.2-r251001: System tray application for weather status information
-unity-extra/unity-greeter 25.04.1-r250402: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
+unity-extra/unity-greeter 25.04.1-r250403: The greeter (login screen) application for Unity. It is implemented as a LightDM greeter.
 unity-extra/unity-tweak-tool 0.0.7-r230403: Configuration manager for the Unity7 user interface
 unity-indicators/indicator-application 12.10.1-r240401: Application indicators used by the Unity7 user interface
 unity-indicators/indicator-appmenu 15.02.0-r240401: Indicator for application menus used by the Unity7 user interface
 unity-indicators/indicator-bluetooth 0.0.6-r240401: System bluetooth indicator used by the Unity7 user interface
 unity-indicators/indicator-datetime 15.10-r240401: Date and Time Indicator used by the Unity7 user interface
-unity-indicators/indicator-keyboard 0.0.0-r241001: Keyboard indicator used by the Unity7 user interface
+unity-indicators/indicator-keyboard 0.0.0-r241002: Keyboard indicator used by the Unity7 user interface
 unity-indicators/indicator-messages 13.10.1-r240401: Indicator that collects messages that need a response used by the Unity7 user interface
 unity-indicators/indicator-notifications 0.4.2-r240401: View recent notifications
 unity-indicators/indicator-power 12.10.6-r240401: Indicator showing power state used by the Unity7 user interface
