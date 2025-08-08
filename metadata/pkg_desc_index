@@ -23,7 +23,6 @@ media-fonts/fonts-noto-cjk 20240730-r241001: 'No Tofu' CJK font families with la
 media-fonts/fonts-ubuntu 0.869-r240401: The Ubuntu variable font with adjustable weight and width axes.
 media-libs/glewmx 1.13.0-r240401: OpenGL Extension Wrangler MX
 net-libs/geonames 0.3.1-r240402 0.3.1-r251001: Parse and query the geonames database dump
-net-libs/gnome-online-accounts 3.48.1-r240401: GNOME framework for accessing online accounts
 net-mail/mailnag 2.2.0-r250402: An extensible mail notification daemon
 net-misc/vino 3.22.0-r250401: An integrated VNC server for GNOME
 sys-power/cpufrequtils 008-r240401: Userspace utilities for the Linux kernel cpufreq subsystem
