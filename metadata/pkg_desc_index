@@ -5,7 +5,7 @@ dev-java/jayatana 24.05: Global menu for Java applications
 dev-libs/dee 1.2.7-r250401: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/ido 13.10.0-r240401: Widgets and other objects used for indicators by the Unity7 user interface
 dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libcolumbus 1.1.0-r250401: Error tolerant matching engine used by the Unity7 user interface
+dev-libs/libcolumbus 1.1.0-r250401 1.1.0-r251001: Error tolerant matching engine used by the Unity7 user interface
 dev-libs/libdbusmenu-qt 0.9.3-r241001: Library providing Qt implementation of DBusMenu specification
 dev-libs/libindicator 16.10.0-r2240401 16.10.0-r3240401: A set of symbols and convenience functions that all indicators would like to use
 dev-libs/libqtdbusmock 0.9.1-r250401: Qt Bindings for python-dbusmock
