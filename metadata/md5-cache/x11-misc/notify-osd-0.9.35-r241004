@@ -9,9 +9,9 @@ INHERIT=gnome2 savedconfig ubuntu-versionator
 IUSE=minimal savedconfig
 KEYWORDS=amd64
 LICENSE=LGPL-2+ GPL-3
-RDEPEND=>=dev-libs/dbus-glib-0.88 >=dev-libs/glib-2.37.3:2 >=sys-apps/dbus-1.9.14 >=x11-libs/gtk+-3.9.10:3 >=x11-libs/libwnck-3.4.0:3 >=dev-libs/atk-1.12.4 gnome-base/dconf gnome-base/gsettings-desktop-schemas >=sys-libs/glibc-2.34 >=x11-libs/cairo-1.14.0 >=x11-libs/gdk-pixbuf-2.22.0:2 x11-libs/libX11 >=x11-libs/pango-1.20.0 >=x11-libs/pixman-0.30.0 !minimal? ( x11-themes/notify-osd-icons )
+RDEPEND=>=dev-libs/dbus-glib-0.88 >=dev-libs/glib-2.37.3:2 >=sys-apps/dbus-1.9.14 >=x11-libs/gtk+-3.9.10:3 >=x11-libs/libwnck-3.4.0:3 >=app-accessibility/at-spi2-core-2.46.0:2 gnome-base/dconf gnome-base/gsettings-desktop-schemas >=sys-libs/glibc-2.34 >=x11-libs/cairo-1.14.0 >=x11-libs/gdk-pixbuf-2.22.0:2 x11-libs/libX11 >=x11-libs/pango-1.20.0 >=x11-libs/pixman-0.30.0 !minimal? ( x11-themes/notify-osd-icons )
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/notify-osd_0.9.35+20.04.20191129.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/notify-osd_0.9.35+20.04.20191129-2.debian.tar.xz
 _eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575	gnome2	26fd01914b36038dc8e964ff4bd03a95	portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
-_md5_=9489e494d7061edfd670b17f64f144c9
+_md5_=9dedbe8326baae0fd0c3919f156835c6
