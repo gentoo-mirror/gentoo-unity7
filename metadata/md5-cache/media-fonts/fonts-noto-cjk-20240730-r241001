@@ -11,5 +11,5 @@ RDEPEND=!media-fonts/noto-cjk
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/fonts-noto-cjk_20240730+repack1.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/fonts-noto-cjk_20240730+repack1-1.debian.tar.xz
-_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=font	aa113a3df9cd0a9693a1c1ee7c34a6eb	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=8e98ec3fefb1902e57be8aa553827479

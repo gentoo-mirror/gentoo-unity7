@@ -10,5 +10,5 @@ PDEPEND=unity-base/unity-settings[files=,music=,photos=,video=]
 RDEPEND=unity-lenses/unity-lens-applications unity-scopes/unity-scope-home files? ( unity-lenses/unity-lens-files ) music? ( unity-lenses/unity-lens-music ) photos? ( unity-lenses/unity-lens-photos ) plugins? ( unity-scopes/smart-scopes ) video? ( unity-lenses/unity-lens-video )
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=3314aee4c9e350ee970863f6cec538fc

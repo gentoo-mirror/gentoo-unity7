@@ -8,5 +8,5 @@ KEYWORDS=amd64
 LICENSE=GPL-2+
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=1b45c97b02e013fc0f69d29169787878

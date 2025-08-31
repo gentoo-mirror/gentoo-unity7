@@ -11,5 +11,5 @@ RDEPEND=x11-themes/adwaita-icon-theme x11-themes/hicolor-icon-theme
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-asset-pool_0.8.24+17.10.20170507.orig.tar.gz
-_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=3dd115a37c0b0268ff7067974bced1c1

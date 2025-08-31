@@ -12,5 +12,5 @@ RDEPEND=>=sys-devel/gcc-7 >=dev-libs/glib-2.39.4:2 >=sys-libs/glibc-2.33
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/unity-api_8.7+17.04.20170404.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/unity-api_8.7+17.04.20170404-0ubuntu9.diff.gz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a	ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=43e8ffe8f787982f585599a2e15f646e

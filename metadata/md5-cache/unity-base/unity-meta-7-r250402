@@ -10,5 +10,5 @@ RDEPEND=gnome-extra/nm-applet media-fonts/dejavu unity-base/overlay-scrollbar un
 REQUIRED_USE=gnome? ( extra )
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=8bb88fd2ab6635a1f2036faa9743a387

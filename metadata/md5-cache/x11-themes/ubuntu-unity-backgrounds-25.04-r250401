@@ -8,5 +8,5 @@ LICENSE=CC-BY-NC-SA-4.0
 RESTRICT=binchecks strip test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/ubuntu-unity-backgrounds_25.04.orig.tar.xz
-_eclasses_=ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=59ef7300e27438b98b3e6e222516abd0

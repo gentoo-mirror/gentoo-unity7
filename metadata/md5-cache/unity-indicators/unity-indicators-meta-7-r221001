@@ -9,5 +9,5 @@ LICENSE=metapackage
 RDEPEND=unity-indicators/indicator-appmenu unity-indicators/indicator-datetime appearance? ( unity-base/unity-settings[ubuntu-unity] unity-indicators/unity-indicator-appearance ) battery? ( unity-indicators/indicator-power ) bluetooth? ( unity-indicators/indicator-bluetooth ) cups? ( unity-indicators/indicator-printers ) java? ( dev-java/jayatana ) keyboard? ( unity-indicators/indicator-keyboard ) mail? ( net-mail/mailnag[messagingmenu] ) notifications? ( unity-indicators/indicator-notifications ) paste? ( unity-extra/diodon ) sensors? ( unity-extra/indicator-psensor ) session? ( unity-indicators/indicator-session ) sound? ( unity-indicators/indicator-sound ) weather? ( unity-extra/meteo-qt )
 RESTRICT=binchecks strip test mirror
 SLOT=0
-_eclasses_=ubuntu-versionator	ee6c62722aac48a60c61ead69d2e75cb
+_eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=bb79f08921bee423c883664e874b7cfc
