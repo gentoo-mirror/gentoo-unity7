@@ -90,7 +90,7 @@ x11-themes/notify-osd-icons 0.8-r210401: Icons for on-screen-display notificatio
 x11-themes/ubuntu-sounds 0.14-r190401: Default audio theme for the Unity
 x11-themes/ubuntu-themes 24.04-r240403: Monochrome icons for the Unity7 user interface (default icon theme)
 x11-themes/ubuntu-touch-sounds 15.08-r240401: Default audio theme for the Unity
-x11-themes/ubuntu-unity-backgrounds 25.04-r250401: Default backgrounds in Ubuntu Unity
+x11-themes/ubuntu-unity-backgrounds 25.04-r250401 25.10-r251001: Default backgrounds in Ubuntu Unity
 x11-themes/ubuntu-wallpapers 25.04.2-r250401 25.10.1-r251001: Ubuntu wallpapers
 x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
 x11-themes/yaru-theme 25.04.1-r250406 25.10.1-r251005: Yaru theme from the Ubuntu Community
