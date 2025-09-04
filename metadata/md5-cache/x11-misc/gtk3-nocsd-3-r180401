@@ -9,6 +9,6 @@ LICENSE=LGPL-2.1
 RDEPEND=>=sys-libs/glibc-2.4
 RESTRICT=test mirror
 SLOT=0
-SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3-1ubuntu3.debian.tar.xz
+SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/gtk3-nocsd_3-1ubuntu1.debian.tar.xz
 _eclasses_=ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
-_md5_=bf60952eba382108aca7141d3818255e
+_md5_=9d28cb67ce9f90225986933249e2420b
