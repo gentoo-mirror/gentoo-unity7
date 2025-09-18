@@ -46,7 +46,7 @@ unity-base/unity-control-center 15.04.0-r240404 15.04.0-r251001: Unity Desktop C
 unity-base/unity-gtk-module 0.0.0-r240401: GTK+ module for exporting old-style menus as GMenuModels
 unity-base/unity-language-pack 7-r250407 7-r251002: Language translations pack for Unity7 user interface
 unity-base/unity-meta 7-r250402: Unity Desktop - merge this to pull in all Unity packages
-unity-base/unity-settings 7-r240403: Default settings for the Unity
+unity-base/unity-settings 7-r240404: Default settings for the Unity
 unity-base/unity-settings-daemon 15.04.1-r211005: Unity Settings Daemon
 unity-extra/diodon 1.13.0-r240401: GTK+ Clipboard manager
 unity-extra/indicator-classicmenu 0.11-r240401: Indicator showing the main menu from GNOME Classic
