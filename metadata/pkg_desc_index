@@ -64,7 +64,7 @@ unity-indicators/indicator-bluetooth 0.0.6-r240401: System bluetooth indicator u
 unity-indicators/indicator-datetime 15.10-r240401: Date and Time Indicator used by the Unity7 user interface
 unity-indicators/indicator-keyboard 0.0.0-r241002: Keyboard indicator used by the Unity7 user interface
 unity-indicators/indicator-messages 13.10.1-r240401: Indicator that collects messages that need a response used by the Unity7 user interface
-unity-indicators/indicator-notifications 0.4.2-r240401: View recent notifications
+unity-indicators/indicator-notifications 0.4.2-r240401 0.4.2-r251001: View recent notifications
 unity-indicators/indicator-power 12.10.6-r240401: Indicator showing power state used by the Unity7 user interface
 unity-indicators/indicator-printers 0.1.7-r240401: Indicator showing active print jobs used by the Unity7 user interface
 unity-indicators/indicator-session 17.3.20-r250401: Indicator showing session management, status and user switching used by the Unity7 user interface
