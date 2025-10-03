@@ -2,7 +2,7 @@ app-accessibility/onboard 1.4.1-r250401: Simple on-screen Keyboard with macros a
 app-eselect/eselect-lightdm 0.2: Utility to change the LightDM greeter being used
 dev-build/cmake-extras 1.8-r250402: Extra CMake utility modules
 dev-java/jayatana 24.05: Global menu for Java applications
-dev-libs/dee 1.2.7-r250401: Provide objects allowing to create Model-View-Controller type programs across DBus
+dev-libs/dee 1.2.7-r250401 1.2.7-r251001: Provide objects allowing to create Model-View-Controller type programs across DBus
 dev-libs/ido 13.10.0-r240401: Widgets and other objects used for indicators by the Unity7 user interface
 dev-libs/libappindicator 12.10.1-r2241001 12.10.1-r3241001: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libcolumbus 1.1.0-r250401 1.1.0-r251001: Error tolerant matching engine used by the Unity7 user interface
@@ -28,7 +28,7 @@ net-mail/mailnag 2.2.0-r250402: An extensible mail notification daemon
 net-misc/vino 3.22.0-r250401: An integrated VNC server for GNOME
 sys-power/cpufrequtils 008-r240401: Userspace utilities for the Linux kernel cpufreq subsystem
 unity-base/bamf 0.5.6-r240401: BAMF Application Matching Framework
-unity-base/compiz 0.9.14.2-r250401 0.9.14.2-r251001: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
+unity-base/compiz 0.9.14.2-r250401 0.9.14.2-r251002: Compiz Fusion OpenGL window and compositing manager patched for the Unity7 user interface
 unity-base/frame 2.5.0-r240401: Touch Frame Library
 unity-base/geis 2.2.17-r250401: An implementation of the GEIS (Gesture Engine Interface and Support) interface
 unity-base/gentoo-unity-env 7-r250404: Setup the Unity7 build environment and ehooks patching system
@@ -93,4 +93,4 @@ x11-themes/ubuntu-touch-sounds 15.08-r240401: Default audio theme for the Unity
 x11-themes/ubuntu-unity-backgrounds 25.04-r250401 25.10-r251001: Default backgrounds in Ubuntu Unity
 x11-themes/ubuntu-wallpapers 25.04.2-r250401 25.10.2-r251001: Ubuntu wallpapers
 x11-themes/unity-asset-pool 0.8.24-r210401: Unity7 user interface icon theme
-x11-themes/yaru-theme 25.04.1-r250406 25.10.2-r251001: Yaru theme from the Ubuntu Community
+x11-themes/yaru-theme 25.04.1-r250406 25.10.3-r251001: Yaru theme from the Ubuntu Community
