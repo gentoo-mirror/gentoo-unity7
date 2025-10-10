@@ -5,11 +5,11 @@ DESCRIPTION=Nemo engrampa integration
 EAPI=8
 HOMEPAGE=https://projects.linuxmint.com/cinnamon https://github.com/linuxmint/nemo-extensions
 INHERIT=meson ubuntu-versionator
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-2
 RDEPEND=dev-libs/glib >=gnome-extra/nemo-2.0.0 app-arch/engrampa
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/nemo-fileroller_6.4.0.orig.tar.xz
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	meson	99466844dd8d4fcfb07578a76f5a9922	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
-_md5_=e8628a9a9ce6fd43aa8605e462d3be51
+_md5_=7284bca6c469a1a53aba298e2470cb49

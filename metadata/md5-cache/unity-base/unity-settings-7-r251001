@@ -12,4 +12,4 @@ REQUIRED_USE=ubuntu-classic? ( fontconfig )
 RESTRICT=binchecks strip test mirror
 SLOT=0
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
-_md5_=b38db22532461df1b5655255ac16bc0d
+_md5_=91bd5feef15575ad8fc74ba32c9ccf94

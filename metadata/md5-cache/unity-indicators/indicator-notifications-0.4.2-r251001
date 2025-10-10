@@ -6,11 +6,11 @@ EAPI=8
 HOMEPAGE=https://launchpad.net/recent-notifications
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=gnome2 ubuntu-versionator
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-3
 RDEPEND=>=dev-libs/glib-2.39.4:2 >=dev-libs/libindicator-0.4.90:3 >=x11-libs/gtk+-3.21.4:3 gnome-base/dconf >=sys-libs/glibc-2.4
 RESTRICT=test mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/indicator-notifications_0.4.2.orig.tar.gz
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	libtool	c81bd096be5f4c82f4e8f156ef112402	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575	gnome2	26fd01914b36038dc8e964ff4bd03a95	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	autotools	955b29ccd82c1df4755e5f37748d2fa6	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
-_md5_=1b2fce157ce089b56b9e83ce603f04d2
+_md5_=77c47af65fd658a439bf498c5cf39f74
