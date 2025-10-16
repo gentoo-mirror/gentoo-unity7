@@ -12,5 +12,5 @@ RDEPEND=>=dev-libs/glib-2.39.91:2 >=sys-libs/glibc-2.4
 RESTRICT=!test? ( test ) mirror
 SLOT=0
 SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/geonames_0.3.1.orig.tar.gz https://launchpad.net/ubuntu/+archive/primary/+files/geonames_0.3.1-2.debian.tar.xz
-_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	cf95ad72ab207889c1668fc0d1bee181	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	3d9a5fc17dadea162813d5d8918328b4	ubuntu-versionator	5988ddcbcfff0ae8bf40f2ef2cf6811a
 _md5_=62e28af9adef2f9a8a157f6bb008d2a1
